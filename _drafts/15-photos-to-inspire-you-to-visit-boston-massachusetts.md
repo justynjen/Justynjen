@@ -1,7 +1,7 @@
 ---
 layout: posts
-date: 2018-04-12 00:00:00
-feature-image_path:
+date: 2018-04-18 00:00:00
+feature-image_path: /uploads/dsc07640.jpg
 title: '15 Photos to Inspire You to Visit Boston, Massachusetts'
 Author: Justyn
 tags:
@@ -38,3 +38,5 @@ comments: true
 ![](/uploads/dsc07635.jpg)
 
 ![](/uploads/dsc07665.jpg)
+
+![](/uploads/dsc07646.jpg)
