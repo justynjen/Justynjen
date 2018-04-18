@@ -10,3 +10,7 @@ tags:
   - Digital Nomads
 comments: true
 ---
+
+![](/uploads/dsc07580-1-2.jpg)
+
+&nbsp;
