@@ -19,4 +19,14 @@ Pinterest is one of the strongest tools you can be using to send traffic to your
 
 I've been helping bloggers and small business owners grow their following and drive thousands of people to their websites every month! How am I doing that? Well let's get started on working out what kind of business Pinterest are for.
 
-Pinterest is the strongest tool to grow blog traffic for sure. So bloggers looking to up their traffic and make money through their affiliates, should be ALL over Pinterest.&nbsp;
+Pinterest is the strongest tool to grow blog traffic for sure. So bloggers looking to up their traffic and make money through their affiliates, should be ALL over Pinterest. Another great way for bloggers to make money on Pinterest is to have their low priced products on Pinterest for people to see and buy. I have found that worksheets, downloads and eBooks do amazing on Pinterest!&nbsp;
+
+Does your business have physical products? No worries! Things like home furnishings, scrapbook/journaling supplies, clothes, kitchen wears, art and photos, all do so well selling on Pinterest. Well that sounds like just about everything right? That's right. Pinterest can actually help you sell everything. You see brands like Target and Nike advertising on Pinterest, what makes you think you should be ignoring the platform?&nbsp;
+
+#### Setting up Pinterest for your business
+
+&nbsp;
+
+Now, I have worked out a bit of a strategy on how to target and direct that growth in the shortest amount of time. If you would like to learn more about that, you can book a 15 minute consultation with me where I can take a look at your accounts and let you know how we can make magic for your business.&nbsp;
+
+&nbsp;
