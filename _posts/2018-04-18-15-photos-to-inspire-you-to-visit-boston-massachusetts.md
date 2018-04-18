@@ -40,3 +40,5 @@ comments: true
 ![](/uploads/dsc07665.jpg)
 
 ![](/uploads/dsc07646.jpg)
+
+Boston is such a fun and diverse city! Not to mention one of the oldest cities in American history! Better add it to your American bucket list because it definitely can't be missed!&nbsp;
