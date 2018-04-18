@@ -5,6 +5,8 @@ feature-image_path:
 title: 9 Essential Things to do in Prague
 author: Justyn
 published: false
+comments: true
+# other options
 ---
 
 As you may or may not know, Prague was the first city that I ever fell in love with. Before Prague I didn’t even know that falling in love with a city was possible. Nor did I think that it would happen for me. Naively, I thought that I was going to spend the summer in Europe, have an amazing time, then head home and that would be it. I was totally wrong.

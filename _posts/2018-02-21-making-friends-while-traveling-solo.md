@@ -4,6 +4,8 @@ date: 2018-02-21 00:00:00
 feature-image_path: /uploads/dscf8879.jpg
 title: Making Friends while Traveling Solo
 Author: Justyn
+comments: true
+# other options
 ---
 
 Traveling solo and making friends from around the world means more opportunity for a free couch around the world.

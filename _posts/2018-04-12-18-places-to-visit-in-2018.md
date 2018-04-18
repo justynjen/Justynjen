@@ -8,6 +8,8 @@ tags:
   - '-travel'
   - Work Online
   - Digital Nomads
+comments: true
+# other options
 ---
 
 Starting the year off right, I decided to choose 18 places that I wanted to visit in 2018.

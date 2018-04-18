@@ -8,6 +8,8 @@ tags:
   - Inspiration
   - Ted Talks
   - Self Improvement
+comments: true
+# other options
 ---
 
 I decided to share with you a few of my favorite tedtalks! I really think that these are something that everyone can benefit from.&nbsp;

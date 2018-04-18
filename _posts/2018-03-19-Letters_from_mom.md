@@ -6,6 +6,8 @@ title: Letter's From Mom
 Author: Justyn
 tags:
   -travel
+comments: true
+# other options
 ---
 ####   Hi World,
 

@@ -6,6 +6,8 @@ title: 9 Tools for Digital Nomads
 Author: Justyn
 tags:
   - '-travel'
+comments: true
+# other options
 ---
 
 Today I am sharing with you my top 9 tools that you better have in your Digital Nomad toolkit. These are the things that I use everyday to get my work done, invoice my clients, track my time and make sure that I am getting my tasks done. Whether you are just starting out in this Digital Nomad journey or you are a seasoned worker, I think that these digital nomad tools will really help you!

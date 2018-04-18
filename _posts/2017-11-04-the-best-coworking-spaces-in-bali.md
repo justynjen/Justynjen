@@ -4,6 +4,8 @@ date: 2017-11-04 00:00:00
 feature-image_path: /uploads/dsc02421.jpg
 title: The Best Coworking Spaces in Bali
 Author: Justyn
+comments: true
+# other options
 ---
 
 Bali has a growing community of Digital Nomads and Expats living the island life. It is full of Cafe’s and coworking spaces that we all gather to work at, network and relax. Before coming to Bali I had no idea what “Coworking” was. Coworking means the use of an office or other working environment by people who are self-employed or working for different employers, typically so as to share equipment, ideas, and knowledge. In Bali’s case, coworking is just that, sharing the wi-fi, sharing ideas and sharing contacts to grow your network and your business.

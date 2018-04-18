@@ -4,6 +4,8 @@ date: 2018-02-20
 feature-image_path: /images/feb-paper-3.jpg
 title: Great destinations for love this season.
 Author: Justyn
+comments: true
+# other options
 ---
 
 Are you thinking you still need to spice things up more and make all of February your time for love? Then read this, take notes and book a trip for you and your special someone ASAP!

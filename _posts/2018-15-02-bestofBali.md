@@ -7,6 +7,8 @@ Author: Justyn
 tags:
   -travel
   -bali
+comments: true
+# other options
 ---
 So I know, you may have freaked out a little bit by that post “The Struggles of moving to Bali”, but hey it’s a hard life. Not that hard however, which is why I want to write about all the best things that Bali has to offer.
 
@@ -30,7 +32,7 @@ Yupp. Super yummy, super healthy food everywhere you go. Bali is a really good p
 #### 5. All the Bali dogs
 While Bali dogs is a very sad and touchy subject, I love the Bali puppies that are a part of my life. I just wish that we could save them all. Bali puppies are the sweetest little buggers on the planet. I know life just wouldn’t be the same if I wasn’t surrounded by all my furry friends. I get a million people asking me every day if I’ve adopted a puppy, but while I know I can’t, I am so grateful for everyone that has. Because they bring so much joy into our lives! Yay for the sweetest Bali pups.
 
-#### 6. Coworking 
+#### 6. Coworking
 Alright so I now know that this is a thing everywhere… But I didn’t know about it until after I moved to Bali and started working anywhere that I could get a good Wi-Fi signal. Soon to find out though, that Bali is home to tons of digital nomads! All looking for strong Wi-Fi. I have now been lucky to meet tons of awesome people and learn all about what they do, just because we all met at the same cafe on a Tuesday to do work.
 
  If you want to follow along my little life here in Bali, make sure to subscribe to my newsletter and follow me on <a href="http://instagram.com/justynjen">Instagram!</a>

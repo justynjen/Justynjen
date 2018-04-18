@@ -8,6 +8,8 @@ tags:
   - '-travel'
   - Israel
   - Middle East
+comments: true
+# other options
 ---
 
 Everyone keeps asking what I love about Israel and quite honestly I am not sure that I can even put it into words! But let’s see…

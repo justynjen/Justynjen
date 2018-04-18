@@ -8,6 +8,8 @@ tags:
   - '-travel'
   - Israel
   - Middle East
+comments: true
+# other options
 ---
 
 I think that I have dreamed of going to Egypt since I was about 8 years old and they taught us about it in school. I found their culture to be fascinating. Mummies, pyramids, hieroglyphics and more. I used to imagine myself as Cleopatra with my sleek black cat and the desert all around me. Now, while Egypt wasn't a thing like my 8 year old self imagined it to be, I still fell in love with this wild country. Here's 10 things I loved about Egypt.

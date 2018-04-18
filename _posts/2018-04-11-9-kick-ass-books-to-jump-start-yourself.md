@@ -8,6 +8,8 @@ tags:
   - '-travel'
   - Work Online
   - Digital Nomads
+comments: true
+# other options
 ---
 
 The first thing that you should know about me is that I LOVE to read. I was that nerd that read under the covers every night thinking that my mom just wouldn't notice. I just wanted to share my favorite books with you that are totally going to change your life. I know they changed mine!

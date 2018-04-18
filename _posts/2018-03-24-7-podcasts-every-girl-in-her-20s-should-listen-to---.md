@@ -7,7 +7,9 @@ Author: Justyn
 tags:
   - '-travel'
   - Enlighten
-  - Podcasts
+  - Podcasts  
+comments: true
+# other options
 ---
 
 Ever since dropping out of school I have tried to find ways to continue teaching myself new things. I decided to do that through podcasts. Podcasts are amazing for many reasons. You can listen to Podcasts that teach you something new and interesting, ones that inspire you or just ones that make you laugh out loud. In personal life and work life, podcasts can be amazing. I try to listen to one every morning with my breakfast and coffee, before I start my day! Here are some of my favorites!

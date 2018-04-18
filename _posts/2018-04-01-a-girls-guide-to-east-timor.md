@@ -8,6 +8,8 @@ tags:
   - '-travel'
   - Israel
   - Middle East
+comments: true
+# other options
 ---
 
 Recently I got the opportunity to take a weekend trip to East Timor and it was an amazing experience. I learned and saw so much in just a few days, it was truly incredible. I want to share my journey with you all, share my tips and tricks because I know that it is an off the beaten path kind of destination, but you should add it to your bucket list right away.<br><br>I am very lucky to be able to spend so much time in Bali and have the opportunity to visit destinations that are off the grid and less traveled. Timor is one of those places.
