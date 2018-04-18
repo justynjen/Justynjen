@@ -11,6 +11,8 @@ tags:
 comments: true
 ---
 
+Boston is THE city to visit for all the food, baseball and history things you could hope for in America! I could have stayed forever. I walked all along the freedom trail, ate about 13 meals a day and wandered in and out of hundreds of unique little stores. All in all, Boston was a dream come true.&nbsp;
+
 ![](/uploads/dsc07580-1-2.jpg)
 
 ![](/uploads/dsc07619-1.jpg)
