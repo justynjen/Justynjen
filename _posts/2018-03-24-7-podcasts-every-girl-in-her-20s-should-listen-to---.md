@@ -9,6 +9,8 @@ tags:
   - Enlighten
   - Podcasts  
 comments: true
+category:
+  - Digital Nomad
 # other options
 ---
 

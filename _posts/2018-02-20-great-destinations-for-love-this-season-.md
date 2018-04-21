@@ -5,6 +5,8 @@ feature-image_path: /images/feb-paper-3.jpg
 title: Great destinations for love this season.
 Author: Justyn
 comments: true
+category:
+  - Travel
 # other options
 ---
 

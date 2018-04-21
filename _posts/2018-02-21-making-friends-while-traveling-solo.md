@@ -5,6 +5,8 @@ feature-image_path: /uploads/dscf8879.jpg
 title: Making Friends while Traveling Solo
 Author: Justyn
 comments: true
+category:
+  - Travel
 # other options
 ---
 

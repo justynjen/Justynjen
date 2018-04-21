@@ -9,6 +9,8 @@ tags:
   - Work Online
   - Digital Nomads
 comments: true
+category:
+  - Travel
 # other options
 ---
 

@@ -5,6 +5,9 @@ feature-image_path: /images/bali/volcano.jpg
 title: Living Abroad in Bali - The Struggle Edition
 Author: Justyn
 comments: true
+category:
+  - Bali
+  - Travel
 # other options
 ---
 Living in Bali is a dream. I know many people who have these grand ideas of what it will be like living here. Here's a bit of the harsh realities...

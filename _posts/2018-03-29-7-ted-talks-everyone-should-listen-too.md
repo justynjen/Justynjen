@@ -9,6 +9,8 @@ tags:
   - Ted Talks
   - Self Improvement
 comments: true
+category:
+  - Digital Nomad
 # other options
 ---
 

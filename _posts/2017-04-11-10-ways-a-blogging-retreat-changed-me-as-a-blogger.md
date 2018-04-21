@@ -5,6 +5,8 @@ feature-image_path: /images/keyboard.jpg
 title: 10 Ways a Blogging Retreat Changed me as a Blogger
 Author: Justyn
 comments: true
+category:
+  - Blogging
 # other options
 ---
 

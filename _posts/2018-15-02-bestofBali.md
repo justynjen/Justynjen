@@ -8,6 +8,8 @@ tags:
   -travel
   -bali
 comments: true
+category:
+  - Travel
 # other options
 ---
 So I know, you may have freaked out a little bit by that post “The Struggles of moving to Bali”, but hey it’s a hard life. Not that hard however, which is why I want to write about all the best things that Bali has to offer.
