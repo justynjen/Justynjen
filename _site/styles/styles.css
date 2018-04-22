@@ -253,7 +253,7 @@ h5{
   min-height: 20vh;
 }
 .subscribe button{
-  background-color: #02537d;
+  background-color: #D1DEDE;
   color: black;
   padding: 1%;
   font-size: 1.3rem;
@@ -312,8 +312,14 @@ About text
   padding: 0;
 }
 .aboutText{
-  color: white;
-  background-color: #0184a9;
+  color:#1D201F;
+  font-size: 1.3rem;
+  background-color: #EAD2AC;
+  line-height: 55px;
+}
+.abouth5{
+  font-size: 2rem;
+  line-height: 30px;
 }
 /*
 GOALS
@@ -397,7 +403,7 @@ FORM
   border-radius: 5px;
   line-height: 22px;
   background-color: transparent;
-  border:2px solid #02537d;
+  border:2px solid #D1DEDE;
   transition: all 0.3s;
   padding: 13px;
   margin-bottom: 15px;
@@ -406,7 +412,7 @@ FORM
   outline:0;
 }
 
-.feedback-input:focus { border:2px solid black; }
+.feedback-input:focus { border:2px solid #D1DEDE; }
 
 textarea {
   height: 150px;
@@ -417,7 +423,7 @@ textarea {
 [type="submit"] {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   width: 100%;
-  background:#02537d;
+  background:#D1DEDE;
   border-radius:5px;
   border:0;
   cursor:pointer;
@@ -429,7 +435,7 @@ textarea {
   margin-top:-4px;
   font-weight:700;
 }
-[type="submit"]:hover { background:#02537d; }
+[type="submit"]:hover { background:#D1DEDE; }
 /*
 Footer
 */
@@ -437,7 +443,7 @@ Footer
   font-size: 1.3rem;
 }
 footer {
-  background-color: #0184a9;
+  background-color: #DF928E;
   color: rgb(60,60,60);
   padding: 5%;
 }
