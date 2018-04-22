@@ -9,6 +9,18 @@ category: [Bali, Travel]
 facebook: Justynjen
 facebook_url: 'https://www.facebook.com/justynjen'
 instagram_url: 'https://www.instagram.com/justynjen/'
+_options:
+  image_path:
+    width: 90
+    height: 120
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: true
+  content:
+    width: 90
+    height: 120
+    resize_style: "cover"
+    mime_type: "image/png"
 # other options
 ---
 Living in Bali is a dream. I know many people who have these grand ideas of what it will be like living here. Here's a bit of the harsh realities...

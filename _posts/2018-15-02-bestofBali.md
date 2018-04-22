@@ -9,6 +9,18 @@ tags:
   -bali
 comments: true
 category: [Travel, Bali]
+_options:
+  image_path:
+    width: 90
+    height: 120
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: true
+  content:
+    width: 90
+    height: 120
+    resize_style: "cover"
+    mime_type: "image/png"
 # other options
 ---
 So I know, you may have freaked out a little bit by that post “The Struggles of moving to Bali”, but hey it’s a hard life. Not that hard however, which is why I want to write about all the best things that Bali has to offer.

@@ -5,7 +5,19 @@ feature-image_path: /uploads/dscf8879.jpg
 title: Making Friends while Traveling Solo
 Author: Justyn
 comments: true
-category: Travel 
+category: Travel
+_options:
+  image_path:
+    width: 90
+    height: 120
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: true
+  content:
+    width: 90
+    height: 120
+    resize_style: "cover"
+    mime_type: "image/png"
 # other options
 ---
 

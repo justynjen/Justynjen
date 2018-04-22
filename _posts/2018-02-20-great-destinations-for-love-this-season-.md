@@ -6,6 +6,18 @@ title: Great destinations for love this season.
 Author: Justyn
 comments: true
 category: Travel
+_options:
+  image_path:
+    width: 90
+    height: 120
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: true
+  content:
+    width: 90
+    height: 120
+    resize_style: "cover"
+    mime_type: "image/png"
 # other options
 ---
 

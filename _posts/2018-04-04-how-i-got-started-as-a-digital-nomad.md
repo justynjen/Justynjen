@@ -11,6 +11,18 @@ tags:
   - Digital Nomads
 comments: true
 category: Digital Nomad
+_options:
+  image_path:
+    width: 90
+    height: 120
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: true
+  content:
+    width: 90
+    height: 120
+    resize_style: "cover"
+    mime_type: "image/png"
 # other options
 
 ---

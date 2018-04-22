@@ -8,6 +8,18 @@ tags:
   -travel
 comments: true
 category: [Travel, Lifestyle]
+_options:
+  image_path:
+    width: 90
+    height: 120
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: true
+  content:
+    width: 90
+    height: 120
+    resize_style: "cover"
+    mime_type: "image/png"
 # other options
 ---
 ####   Hi World,
