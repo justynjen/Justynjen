@@ -2,22 +2,49 @@
 layout: default
 ---
 
-<section class="bgPosts centered" style="background-image:url('{{page.feature-image_path}}');">
+<section class="bgPosts center" style="background-image:url('{{page.feature-image_path}}');">
   <div class="banner-inner">
 
   </div>
-  <div class="sidebar-right sidebar"></div>
 </section>
 
-<section>
-  <h2 class="centered"> {{page.title}} </h2>
-  <hr class="center"> </hr>
+<section class="grid">
+  <h2 class="center"> {{page.title}} </h2>
   <p> {{page.subtitle}} </p>
-  <div class="posts">
-   {{content}}
-  </div>
+    <div class="col-8_xs-12 content">
 
-  <h3 class="shorelines centered">Comment</h3>
+      {{content}}
+
+    </div>
+    <div class="sidebar col-3_xs-12" id="sidebar">
+      <img class="sidebarImage"src="/images/bali/insta-tour5.jpg" alt="">
+      <h4 class="shorelines lineHeight center">Hello!</h4>
+      <p>My name is Justyn. Pronounced Just(in). Most people want to know if I was given this name for a reason, but as I always tell them, no my name has no meaning. It is just a name my dad was set on naming me whether I was a boy or not. I know now that I was given this name because I was meant to stand out and what better way to stand out then to be a girl with boy’s name. That’s the first question I get everytime I introduce myself.</p>
+      <h4 class="shorelines lineHeight center">Top Posts</h4>
+      <div class="blog-posts grid-middle-center">
+
+        {% for post in site.posts limit:4 %}
+
+        <div class="blog-post col-12 center">
+          <img class="bg blogImage" src="{{ post.feature-image_path }} " alt="">
+          <div class="center">
+            <h4 class="center"><a href="{{ post.url }}">{{ post.title }}</a><br /></h4>
+            <p>
+              {{post.excerpt | truncatewords:25}}
+            </p>
+            <a href="{{post.url}}" class="postUrl"> Read More</a>
+          </div>
+        </div>
+
+        {% endfor %}
+
+      </div>
+
+    </div>
+</section>
+<section>
+
+  <h3 class="shorelines center col-12">Comment</h3>
 
   <div id="disqus_thread"></div>
   <script>
@@ -51,8 +78,8 @@ layout: default
 
     <div class="blog-post col-3_sm-6_xs-12">
      <img class="bg blogImage" src="{{ post.feature-image_path }} " alt="">
-     <div class="blogContainer centered">
-       <h4 class="centered blogPosts"><a href="{{ post.url }}">{{ post.title }}</a><br /></h4>
+     <div class="blogContainer center">
+       <h4 class="center blogPosts"><a href="{{ post.url }}">{{ post.title }}</a><br /></h4>
          <p>
   				 {{post.excerpt | truncatewords:15}}
   			</p>

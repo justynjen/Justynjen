@@ -9,8 +9,7 @@ tags:
   - Work Online
   - Digital Nomads
 comments: true
-category:
-  - Travel
+category: [Travel, USA]
 ---
 
 Boston is THE city to visit for all the food, baseball and history things you could hope for in America! I could have stayed forever. I walked all along the freedom trail, ate about 13 meals a day and wandered in and out of hundreds of unique little stores. All in all, Boston was a dream come true. I hope these photos inspire you to visit Boston right away!

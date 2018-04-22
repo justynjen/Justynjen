@@ -43,7 +43,7 @@
   </head>
   <body>
 
-      <header class="grid-spaceBetween-middle mainNav">
+      <header class="grid-spaceBetween-middle mainNav" id="navbar">
   <nav>
     <a href="http://instagram.com/justynjen"><img class="icon"src="/images/instagram.png" alt=""></a>
     <a href="http://facebook.com/justynjen"><img class="icon"src="/images/Facebook.png" alt=""></a>
@@ -109,14 +109,7 @@
 </section>
 
 
-      <div>
-  <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/22c3058346c8557ab6b334ec18d53b59.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
-
-
-</div>
-
-
-<footer class="grid footerMain">
+      <footer class="grid footerMain">
   <div class="col-2_xs-12">
     <p> I'm just a girl, traveling the world. Trying to find myself and being as cheesy as possible along the way. </p>
   </div>
@@ -135,12 +128,11 @@
     <h5 class="verticleText shorelines explore"> explore </h5>
   <div class="verticalIcons">
     <ul class="footerLinks">
-      <li><a href="#">Cities</a></li>
-      <li><a href="#">Countries</a></li>
       <li><a href="#">Travel</a></li>
-      <li><a href="#">Work</a></li>
+      <li><a href="#">Middle East</a></li>
       <li><a href="#">Digital Nomad</a></li>
-      <li><a href="#">Tips</a></li>
+      <li><a href="#">Blogging</a></li>
+      <li><a href="#">Bali</a></li>
     </ul>
   </div>
   </div>
@@ -157,6 +149,11 @@
   </div>
   </div>
 </footer>
+<div>
+  <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/22c3058346c8557ab6b334ec18d53b59.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+
+
+</div>
 <footer class="mobileFooter">
   <div>
     <h5 class="shorelines left">Get Around</h5>
@@ -204,6 +201,25 @@ $( document ).ready(function() {
     async defer
     src="//assets.pinterest.com/js/pinit.js"
 ></script>
+<script>
+// When the user scrolls the page, execute myFunction
+window.onscroll = function() {myFunction()};
+
+// Get the navbar
+var navbar = document.getElementById("navbar");
+
+// Get the offset position of the navbar
+var sticky = navbar.offsetTop;
+
+// Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+function myFunction() {
+if (window.pageYOffset >= sticky) {
+  navbar.classList.add("sticky")
+} else {
+  navbar.classList.remove("sticky");
+}
+}
+</script>
 
 
   </body>

@@ -2,7 +2,7 @@
 layout: default
 ---
 <section class="aboutPage padding">
-	<h2 class="centered shorelines lineHeight">About Me</h2>
+	<h2 class="center shorelines lineHeight">About Me</h2>
 	<div class="grid">
 			<div style="background-image:url('/images/selfie.jpg')" class="col-6_sm-12 bg">
 			</div>
@@ -34,7 +34,11 @@ layout: default
 
    <div class="blog-post col-3_sm-6_xs-12">
      <img class="bg blogImage" src="{{ post.feature-image_path }} " alt="">
-     <h4 class="centered blogPosts"><a href="{{ post.url }}">{{ post.title }}</a></h4>
+     <h4 class="center"><a href="{{ post.url }}">{{ post.title }}</a></h4>
+		 <p>
+				 {{post.excerpt | truncatewords:25}}
+			</p>
+			<a href="{{post.url}}" class="postUrl center"> Read More</a>
    </div>
 
    {% endfor %}
@@ -42,7 +46,7 @@ layout: default
   </div>
 
 </section>
-<section class="subscribe centered">
+<section class="subscribe center">
   <h2 class="shorelines lineHeight"> Subscribe </h2>
   <hr class="center"> </hr>
   <form class="contact-form" method="POST" action="http://formspree.io/justyngourdin@gmail.com">

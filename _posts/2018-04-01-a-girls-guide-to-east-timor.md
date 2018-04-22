@@ -9,8 +9,7 @@ tags:
   - Israel
   - Middle East
 comments: true
-category:
-  - Travel
+category: Travel
 # other options
 ---
 

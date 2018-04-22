@@ -5,9 +5,10 @@ feature-image_path: /uploads/dsc02421.jpg
 title: The Best Coworking Spaces in Bali
 Author: Justyn
 comments: true
-category:
-  - Bali
-  - Digital Nomad
+category: [Bali, Digital Nomad]
+facebook: Justynjen
+facebook_url: 'https://www.facebook.com/justynjen'
+instagram_url: 'https://www.instagram.com/justynjen/'
 # other options
 ---
 

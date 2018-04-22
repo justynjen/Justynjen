@@ -5,8 +5,10 @@ feature-image_path: /images/keyboard.jpg
 title: 10 Ways a Blogging Retreat Changed me as a Blogger
 Author: Justyn
 comments: true
-category:
-  - Blogging
+category: Blogging
+facebook: Justynjen
+facebook_url: 'https://www.facebook.com/justynjen'
+instagram_url: 'https://www.instagram.com/justynjen/'
 # other options
 ---
 

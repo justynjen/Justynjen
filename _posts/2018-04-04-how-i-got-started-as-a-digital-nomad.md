@@ -10,8 +10,7 @@ tags:
   - Work Online
   - Digital Nomads
 comments: true
-category:
-  - Digital Nomad
+category: Digital Nomad
 # other options
 
 ---

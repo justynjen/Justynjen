@@ -17,7 +17,7 @@ img {
   height: auto;
 }
 p{
-  font-size: 1.3rem;
+  font-size: 1rem;
   line-height: 1.6
 }
 
@@ -116,6 +116,50 @@ h5{
 }
 .banner{
   min-height: 90vh;
+}
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+  background-color: white;
+}
+
+/* Navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 0px 16px 0px 16px;
+  text-decoration: none;
+}
+
+/* Page content */
+.content {
+  padding: 12px;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 50px;
+}
+/**
+**** SIDEBAR ****
+**/
+.content{
+  margin-left: 25px;
+}
+.sidebar{
+  padding: 5px;
+}
+.sidebar h4{
+  padding:5px;
 }
 .about{
   min-height: 50vh;
@@ -232,7 +276,7 @@ Helpers
   position: relative;
   top: 50%;
 }
-.centered{
+.center{
   text-align: center;
 }
 .left{
@@ -325,20 +369,6 @@ BLOG
   text-align: center;
   position: relative;
   left: 33%;
-}
-.blogContainer{
-  height: 230px;
-  width: 200px;
-  text-align: center;
-}
-.blogPosts{
-  background-color: #02537d;
-  color: white;
-  position: relative;
-  bottom:27px;
-  width: 180px;
-  border-radius: 2px;
-  left: 8px;
 }
 .postUrl{
   color: #02537d;

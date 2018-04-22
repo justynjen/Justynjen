@@ -7,8 +7,7 @@ Author: Justyn
 tags:
   - '-travel'
 comments: true
-category:
-  - Digital Nomad
+category: Digital Nomad
 # other options
 ---
 

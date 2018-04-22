@@ -8,7 +8,7 @@ banner-image_path: /images/bali/instaTour.jpg
   <div class="col-4_sm-12">
     <h2 class="shorelines padding lineHeight mainJ">Justyn Jen</h2>
     <hr class="center"> </hr>
-    <p class="centered">Coder, Blogger, Traveler</p>
+    <p class="center">Coder, Blogger, Traveler</p>
   </div>
   <div class="col-4_xs-0">
 
@@ -33,21 +33,21 @@ banner-image_path: /images/bali/instaTour.jpg
   </div>
 </section>
 <section class="grid goals">
-  <div class="col-4_sm-12 centered">
+  <div class="col-4_sm-12 center">
     <h4 class="shorelines">Countries</h4>
     <h4>51</h4>
   </div>
-  <div class="col-4_sm-12 centered">
+  <div class="col-4_sm-12 center">
     <h4 class="shorelines">Cities</h4>
     <h4>235</h4>
   </div>
-  <div class="col-4_sm-12 centered">
+  <div class="col-4_sm-12 center">
     <h4 class="shorelines">Continents</h4>
     <h4>5</h4>
   </div>
 </section>
 <section class="grid work">
-  <div class="col-4_xs-12 centered vaSection">
+  <div class="col-4_xs-12 center vaSection">
     <img class="icon"src="/images/launch.png" alt="">
     <h3 class="shorelines">Branding</h3>
     <p>Not sure where to even get started with your new brand? I bet you want something beautiful that really stands out from the crowd. Having a strong brand can be the basis you build a strog business on. Let me hep you with:</p>
@@ -63,7 +63,7 @@ banner-image_path: /images/bali/instaTour.jpg
     </div>
     <a href="/branding.html" class="learn hireButton shorelines">LEARN MORE</a>
   </div>
-  <div class="col-4_xs-12 centered webSection">
+  <div class="col-4_xs-12 center webSection">
     <img class="icon"src="/images/idea.png" alt="">
     <h3 class="shorelines">Websites</h3>
     <p>Once you have created a beautiful brand for yourself, let's turn that into a stunning website. People these days spend about 90% of their time on the internet. That means if your business isn't on the internet, people just aren't going to find you. Let's get you a new website that is:</p>
@@ -80,7 +80,7 @@ banner-image_path: /images/bali/instaTour.jpg
     <a href="/websites.html
     " class="learn hireButton shorelines">LEARN MORE</a>
   </div>
-  <div class="col-4_xs-12 centered holidaySection">
+  <div class="col-4_xs-12 center holidaySection">
     <img class="icon"src="/images/websearch.png" alt="">
     <h3 class="shorelines">Holidays</h3>
     <p>I have been traveling for the past 3 years to hundreds of cities in over 50 countries. Why not let me help you plan your next holiday? Travel like an expert next time you head out! I can do a range of things for you including: </p>
@@ -147,21 +147,21 @@ banner-image_path: /images/bali/instaTour.jpg
   </div>
 
 </section>-->
-<section class="blog">
+<section class="blog center">
   <h2 class="center shorelines">Read the blog</h2>
   <a data-pin-do="buttonBookmark" href="https://www.pinterest.com/pin/create/button/"></a>
-  <div class="blog-posts grid-middle-center">
+  <div class="blog-posts grid-middle-center center">
 
    {% for post in site.posts limit:4 %}
 
    <div class="blog-post col-3_sm-6_xs-12">
      <img class="bg blogImage" src="{{ post.feature-image_path }} " alt="">
-     <div class="blogContainer centered">
-       <h4 class="centered blogPosts postTitle"><a href="{{ post.url }}">{{ post.title }}</a><br /></h4>
-       <p>
-					 {{post.excerpt | truncatewords:15}}
+     <div class="center">
+       <h4 class="center postTitle"><a href="{{ post.url }}">{{ post.title }}</a><br /></h4>
+       <p class="center">
+					 {{post.excerpt | truncatewords:25}}
 				</p>
-				<a href="{{post.url}}" class="postUrl"> Read More</a>
+				<a href="{{post.url}}" class="center postUrl"> Read More</a>
      </div>
    </div>
 
@@ -170,7 +170,7 @@ banner-image_path: /images/bali/instaTour.jpg
   </div>
 
 </section>
-<section class="subscribe centered">
+<section class="subscribe center">
   <h2 class="shorelines lineHeight"> Subscribe </h2>
   <hr class="center"> </hr>
   <form method="POST" action="https://formspree.io/justyngourdin@gmail.com">

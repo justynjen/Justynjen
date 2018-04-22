@@ -9,8 +9,7 @@ tags:
   - Work Online
   - Digital Nomads
 comments: true
-category:
-  - Travel
+category: [Travel, Bali]
 # other options
 ---
 

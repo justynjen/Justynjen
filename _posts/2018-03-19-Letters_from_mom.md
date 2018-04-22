@@ -7,8 +7,7 @@ Author: Justyn
 tags:
   -travel
 comments: true
-category:
-  - Travel
+category: [Travel, Lifestyle]
 # other options
 ---
 ####   Hi World,
