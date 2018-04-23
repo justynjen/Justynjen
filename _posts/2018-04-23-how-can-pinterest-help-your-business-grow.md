@@ -34,15 +34,15 @@ Then you need to set up the right boards for your business
 
 ![](/uploads/screenshot-38-1.png)
 
-After that you should sign up for [Tailwindapp](https://www.tailwindapp.com/i/justynjen) and use it to your advantage!
+After that you should sign up for [Tailwindapp](https://www.tailwindapp.com/i/justynjen) and use it to your advantage! I usually am pinning at least 20-25 times a day!
 
 ![](/uploads/screenshot-40.png){: srcset="/uploads/screenshot-40.png 504w, /uploads/screenshot-40@2x.png 1008w"}
 
-4. Pin constantly
+The next thing to do is just be putting out new pins constantly. Like I said above, I usually put out 20 pins a day at least.
 
-5. Create multiple pins for every product and post that you have
+Another important thing to do is create multiple pins for every product and post that you have.
 
-6. Make sure that you have analytics setup for your website
+Lastly, make sure that you have analytics setup for your website so that you can track all of your growth.&nbsp;
 
 With all of this, you should see a serious change in your business and Pinterest traffic in just a matter of weeks!
 
