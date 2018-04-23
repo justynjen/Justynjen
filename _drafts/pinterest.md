@@ -1,15 +1,15 @@
 ---
 layout: posts
-date: 2018-04-18 00:00:00
+date: 2018-04-23 00:00:00
 feature-image_path: /uploads/haute-stock-photography-january-instaquotes-2 (1).png
 title: How Can Pinterest Help Your Business Grow?
 Author: Justyn
 tags:
-  - '-travel'
   - Work Online
   - Digital Nomads
+  - Pinterest
 comments: true
-category:
+category: Digital Nomad
 _options:
   image_path:
     width: 90
