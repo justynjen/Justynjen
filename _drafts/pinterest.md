@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-04-18 00:00:00
-feature-image_path: /uploads/dsc07640.jpg
+feature-image_path:
 title: Pinterest
 Author: Justyn
 tags:
@@ -10,8 +10,6 @@ tags:
   - Digital Nomads
 comments: true
 category:
-  - Travel
-  - USA
 _options:
   image_path:
     width: 90
@@ -25,3 +23,20 @@ _options:
     resize_style: cover
     mime_type: image/png
 ---
+
+Are you on Pinterest? Chances are, that answer is yes! However, are you using Pinterest to help you grow your business? That answer might be no…<br><br>Your next question for me might be something like, “How can Pinterest help me grow my business? Pinterest is for cooking and weddings and wasting time.” You have never been more wrong.<br><br>Pinterest is one of the most effective ways to send traffic to your website or blog and explode your business. It's about time we take Pinterest out of the social media category and put it in the business tools category.<br><br>Pinterest is the strongest tool to grow blog traffic for sure. Bloggers looking to up their traffic and make money through their affiliates, should be ALL over Pinterest. Another great way for bloggers to make money with Pinterest is to have their products on Pinterest for people to see and buy. I have found that worksheets, downloads and eBooks are great products to sell on Pinterest!<br><br>Does your business have physical products? No worries! Things like home furnishings, scrapbook/journaling supplies, clothes, kitchen wares, art and photos also do well selling on Pinterest. It can actually help you sell everything. You see brands like Target and Nike advertising on Pinterest, so why would you ignore this platform for selling! I've been helping bloggers and small business owners grow their following and drive thousands of people to their websites every month! How am I doing that?
+
+#### Steps to having the BEST Pinterest for your business!
+
+1. Switch to a business account
+2. Set up the right boards for your business
+3. Sign up for Tailwindapp and use it to your advantage!
+4. Pin constantly
+5. Create multiple pins for every product and post that you have
+6. Make sure that you have analytics setup for your website
+
+With all of this, you should see a serious change in your business and Pinterest traffic in just a matter of weeks!
+
+Does that sound a bit overwhelming or you just don’t know where to start? That makes sense. Resetting your current pinterest mindset and getting to the point where you are pinning right for you business can be difficult.
+
+I have worked out a strategy on how to target and direct that growth in the shortest amount of time. If you would like to learn more about it, you can book a FREE 15 minute consultation with me and I will take a look at your accounts and let you know how I can help you make magic for your business through Pinterest. Or check out my e-guide to using Pinterest to grow your business.<br>&nbsp;
