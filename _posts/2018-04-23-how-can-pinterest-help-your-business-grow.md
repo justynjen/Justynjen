@@ -34,15 +34,15 @@ Are you on Pinterest? Chances are, that answer is yes! However, are you using Pi
 
 ![](/uploads/screenshot-38-1.png)
 
-1. Sign up for [Tailwindapp](https://www.tailwindapp.com/i/justynjen) and use it to your advantage!
+3. Sign up for [Tailwindapp](https://www.tailwindapp.com/i/justynjen) and use it to your advantage!
 
 ![](/uploads/screenshot-40.png){: srcset="/uploads/screenshot-40.png 504w, /uploads/screenshot-40@2x.png 1008w"}
 
-1. Pin constantly
+4. Pin constantly
 
-2. Create multiple pins for every product and post that you have
+5. Create multiple pins for every product and post that you have
 
-3. Make sure that you have analytics setup for your website
+6. Make sure that you have analytics setup for your website
 
 With all of this, you should see a serious change in your business and Pinterest traffic in just a matter of weeks!
 
