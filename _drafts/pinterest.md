@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-04-18 00:00:00
-feature-image_path:
+feature-image_path: /uploads/haute-stock-photography-january-instaquotes-2 (1).png
 title: Pinterest
 Author: Justyn
 tags:
@@ -39,4 +39,4 @@ With all of this, you should see a serious change in your business and Pinterest
 
 Does that sound a bit overwhelming or you just don’t know where to start? That makes sense. Resetting your current pinterest mindset and getting to the point where you are pinning right for you business can be difficult.
 
-I have worked out a strategy on how to target and direct that growth in the shortest amount of time. If you would like to learn more about it, you can book a FREE 15 minute consultation with me and I will take a look at your accounts and let you know how I can help you make magic for your business through Pinterest. Or check out my e-guide to using Pinterest to grow your business.<br>&nbsp;
+I have worked out a strategy on how to target and direct that growth in the shortest amount of time. If you would like to learn more about it, you can book a FREE 15 minute consultation with me and I will take a look at your accounts and let you know how I can help you make magic for your business through Pinterest. Or check out my e-guide to using Pinterest to grow your business.<br>
