@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-04-18 00:00:00
 feature-image_path: /uploads/haute-stock-photography-january-instaquotes-2 (1).png
-title: Pinterest
+title: How Can Pinterest Help Your Business Grow?
 Author: Justyn
 tags:
   - '-travel'
