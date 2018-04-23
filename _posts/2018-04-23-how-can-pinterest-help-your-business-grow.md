@@ -34,15 +34,15 @@ Are you on Pinterest? Chances are, that answer is yes! However, are you using Pi
 
 ![](/uploads/screenshot-38-1.png)
 
-3. Sign up for [Tailwindapp](https://www.tailwindapp.com/i/justynjen) and use it to your advantage!
+1. Sign up for [Tailwindapp](https://www.tailwindapp.com/i/justynjen) and use it to your advantage!
 
 ![](/uploads/screenshot-40.png){: srcset="/uploads/screenshot-40.png 504w, /uploads/screenshot-40@2x.png 1008w"}
 
-4. Pin constantly
+1. Pin constantly
 
-5. Create multiple pins for every product and post that you have
+2. Create multiple pins for every product and post that you have
 
-6. Make sure that you have analytics setup for your website
+3. Make sure that you have analytics setup for your website
 
 With all of this, you should see a serious change in your business and Pinterest traffic in just a matter of weeks!
 
@@ -50,6 +50,6 @@ Does that sound a bit overwhelming or you just don’t know where to start? That
 
 ![](/uploads/screenshot-41.png){: srcset="/uploads/screenshot-41.png 1009w, /uploads/screenshot-41@2x.png 2018w"}
 
-I have worked out a strategy on how to target and direct that growth in the shortest amount of time. If you would like to learn more about it, you can book a FREE 15 minute consultation with me and I will take a look at your accounts and let you know how I can help you make magic for your business through Pinterest. Or check out my e-guide to using Pinterest to grow your business.
+I have worked out a strategy on how to target and direct that growth in the shortest amount of time. If you would like to learn more about it, you can book a [FREE 15 minute consultation](https://calendly.com/justyngourdin/15-minute-consult) with me and I will take a look at your accounts and let you know how I can help you make magic for your business through Pinterest.&nbsp;
 
 Also - get $15 free for your Tailwind account by signing up [here!](https://www.tailwindapp.com/i/justynjen)
