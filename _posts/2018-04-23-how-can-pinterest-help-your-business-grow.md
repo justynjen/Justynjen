@@ -32,11 +32,19 @@ First, go ahead and switch to a business account
 
 Then you need to set up the right boards for your business
 
+&nbsp;
+
 ![](/uploads/screenshot-38-1.png)
+
+&nbsp;
 
 After that you should sign up for [Tailwindapp](https://www.tailwindapp.com/i/justynjen) and use it to your advantage! I usually am pinning at least 20-25 times a day!
 
+&nbsp;
+
 ![](/uploads/screenshot-40.png){: srcset="/uploads/screenshot-40.png 504w, /uploads/screenshot-40@2x.png 1008w"}
+
+&nbsp;
 
 The next thing to do is just be putting out new pins constantly. Like I said above, I usually put out 20 pins a day at least.
 
