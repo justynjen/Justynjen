@@ -28,13 +28,13 @@ Are you on Pinterest? Chances are, that answer is yes! However, are you using Pi
 
 #### Steps to having the BEST Pinterest for your business!
 
-1. Switch to a business account
+First, go ahead and switch to a business account
 
-2. Set up the right boards for your business
+Then you need to set up the right boards for your business
 
 ![](/uploads/screenshot-38-1.png)
 
-3. Sign up for [Tailwindapp](https://www.tailwindapp.com/i/justynjen) and use it to your advantage!
+After that you should sign up for [Tailwindapp](https://www.tailwindapp.com/i/justynjen) and use it to your advantage!
 
 ![](/uploads/screenshot-40.png){: srcset="/uploads/screenshot-40.png 504w, /uploads/screenshot-40@2x.png 1008w"}
 
