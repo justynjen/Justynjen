@@ -1,6 +1,6 @@
 ---
 layout: posts
-date: 2018-04-23 00:00:00
+date: 2018-04-24 00:00:00
 feature-image_path: /uploads/black-coffee-blur-cup-and-saucer-818650.jpg
 title: 15 Tools Every Digital Nomad Needs To Have
 Author: Justyn
