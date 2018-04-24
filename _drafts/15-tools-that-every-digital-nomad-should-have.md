@@ -65,6 +65,47 @@ I really cannot recommend enough that you grab one of these before taking off on
 This is the best way to save your back when you are always working from your laptop. They always say that it’s best no to be looking down at your screen all day, and this guy folds right up to travel with you! You can easily throw it in your laptop bag and head out and about. 
 
 
+Travel Microphone. 
+
+Now a travel microphone might not be for everyone, but I really think that it comes in handy more than people think it will. This little guy folds right up to fit basically anywhere. Pull him out to record podcasts, interviews, webinars, online classes and more. Never be hard to hear again! This will change everything for you. Plus I really think it just looks so cute.
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00FQE337M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQE337M&linkCode=as2&tag=justynjen07-20&linkId=ee1f666af47df117aa56f85df16ac306"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FQE337M&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=justynjen07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=B00FQE337M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+<a target="_blank" href="https://www.amazon.com/gp/product/B07C19HBSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07C19HBSC&linkCode=as2&tag=justynjen07-20&linkId=07d2451d104b19d2809f6a25bbc677d3">Yuntec Wireless Headphones</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=B07C19HBSC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
+
+Having a good pair of bluetooth headphones is the best. These little guys don’t even have cords that you have to deal with. You just throw them in your purse or backpack and then you always have them when you need them. Say goodbye to messy cords and always having to untangle your headphones. This will solve all those problems for you.
+
+
+<a target="_blank" href="https://www.amazon.com/gp/product/B000784H4K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000784H4K&linkCode=as2&tag=justynjen07-20&linkId=b32f54eba7eb2fa8ffd34d9d51d2f1f8">Universal Surge Protector / Power Strip</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=B000784H4K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
+
+Yes I carry this bad boy around with me everywhere and guess what - it may look nerdy but it comes in SO HANDY. Never have to fight over plugs again! Only one plug in the cafe or hostel room? No worries! No plugs around at the airport? NO WORRIES! Plus it’s universal, so everyone from anywhere can plug in and use it as well. They are going to love you. Yes all my friends thought I was crazy at first, but now, they love that I pack this bad boy around. I totally recommend getting one. 
+
+
+<a target="_blank" href="https://www.amazon.com/gp/product/B01AZ0ZR20/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AZ0ZR20&linkCode=as2&tag=justynjen07-20&linkId=7e5df2b28db81260ded7900cebb4cce1">Fjallraven Kanken </a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=B01AZ0ZR20" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
+
+his backpack has changed the game for me. This bad boy holds EVERYTHING and opens up flat to easily find all your things. No more digging around in a dark backpack looking for things. You won’t need to do that ever again. The other thing that I love about this bag is that it has the back laptop compartment and then another pocket in the main section that I can put books and journals. This style has the padded arm pads and the big water bottle packet on the side. I can’t do anywhere without it. It holds all my gadgets and my camera easily. And they are well made and last forever!
+
+
+<a target="_blank" href="https://www.amazon.com/gp/product/B01M01ZZAC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M01ZZAC&linkCode=as2&tag=justynjen07-20&linkId=30baef58c12b831596fccee0d84720bb">Google Pixel XL </a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=B01M01ZZAC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
+
+This phone might not be your first choice when you think of your next upgrade, but let me let you know right now why you need this phone as a digital nomad. First thing, my whole life and business are in my google drive and this is the google phone. Meaning this phone connects directly to my business. It also has A TON of storage and an amazing camera. You can snap all the travel pics to make your friends and family jealous. Plus it still costs a lot less than the beloved iPhone. 
+
+<a target="_blank" href="https://www.amazon.com/gp/product/B06XG892ZH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XG892ZH&linkCode=as2&tag=justynjen07-20&linkId=c3e8b5cff9602903ddbd9b0784e42813">WD 3TB Elements Portable External Hard Drive</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=B06XG892ZH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
+
+I don’t go anywhere without my storage device. It is my life. Everything goes straight from my laptop to my google drive and my portable storage. I don’t leave anything up to chance, I back everything up. I love having my storage drive to store photos, websites and word documents and eBooks. I have this thing organized hardcore and if anything was my personal assistant, it would be this. 
+
+
+<a target="_blank" href="https://www.amazon.com/gp/product/B0756LFYC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0756LFYC4&linkCode=as2&tag=justynjen07-20&linkId=e54fb9eaf34624bf60d372c2cb19efcf">Skyroam Solis: Mobile WiFi Hotspot &amp; Power Bank </a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=B0756LFYC4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
+
+If you have this bad boy you don’t need much else. Never worry about Wi-Fi again because you finally have your own to carry around with you all the time. I wouldn’t be able to survive without the Skyroam. It’s a total game changer. Every digital nomad out there needs one of these now. 
+
+
+<a target="_blank" href="https://www.amazon.com/gp/product/B06XD5YCKX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XD5YCKX&linkCode=as2&tag=justynjen07-20&linkId=752db30f3e7bd975e1ee067b8e2477cc">All-New Kindle Oasis E-reader</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&l=am2&o=1&a=B06XD5YCKX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
+
+This eReader is the best for travel because it has those pages that actually look like book pages with no glare, meaning that you can now read all your favorites at the beach, in the airport or late at night in bed. eReading is the way of the world, go ahead and jump on board with this awesome new eReader from Kindle. The perfect way to relax when you have to work a lot. 
+
+This may seem like a lot, but I swear I can’t take a trip without all of this with me. My business just wouldn’t run the same without it. What do you have to have in order to have your digital nomad business run smoothly?
 
 
 
