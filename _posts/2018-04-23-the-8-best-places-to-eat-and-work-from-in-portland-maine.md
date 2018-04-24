@@ -67,11 +67,11 @@ They have great coffee for a really great price and they also have two high spee
 
 ##### ![](/uploads/dsc07704.png)
 
-##### &nbsp;
+#####  
 
 ##### Now for the evenings - because all these awesome coffee shops close at like 5pm!
 
-&nbsp;
+ 
 
 #### #7 B.Good
 
