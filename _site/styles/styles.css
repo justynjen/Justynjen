@@ -1,635 +1,635 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-html {
-  overflow-x: hidden;
-  font-size: 14px;
-  color: rgb(60,60,60);
-  font-family: 'Lato';
-}
-body{
-  background-color: #eeeeee0d;
-}
-img {
-  max-width : 100%;
-  height: auto;
-}
-p{
-  font-size: 1.1rem;
-  line-height: 1.6
-}
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    overflow-x: hidden;
+    font-size: 14px;
+    color: rgb(60,60,60);
+    font-family: 'Lato';
+  }
+  body{
+    background-color: #eeeeee0d;
+  }
+  img {
+    max-width : 100%;
+    height: auto;
+  }
+  p{
+    font-size: 1.1rem;
+    line-height: 1.6
+  }
 
-h1, h2, h3, h4, h5, p, li {
-margin-bottom: 0.5em
-}
-h1, h2, h3, h4 {
-  line-height: 1.3
-}
-section{
-  padding: 3%;
-}
-ul {
-  list-style-type: none;
-}
-.home{
-  background-color: white;
-}
-.bg{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height:200px;
-}
-hr {
-  border: none;
-  border-bottom: 2px solid black;
-  width: 3.5rem;
-  margin: 1rem 0;
-}
-hr.center {
-  margin-left: auto;
-  margin-right: auto;
-}
-a {
-  display: inline-block;
-  color: black;
-  font-size: 1.3rem;
-}
-header a {
-  text-decoration: none;
-}
-post.url{
-  text-decoration: none;
-}
-.postTitle a{
-  text-decoration: none;
-}
-li{
-  font-size: 1.5rem;
-}
-header{
-  position: relative;
-  padding: 0 5%;
-  min-height: 4rem;
-}
-header nav a,
-footer nav a {
-  text-decoration: none;
-  padding: 0 0.7rem;
-  font-size: 1rem;
-  text-transform: uppercase;
-  font-weight: 400;
-}
-header .icon{
-  height: 20px;
-  width: 20px;
-}
-.icon{
-  height: 100px;
-  width: 100px;
-  margin-bottom: 15px;
-}
-.icon2{
-  height: 25px;
-  width: 25px;
-  padding-right: 2px;
-  margin-top: 5px;
-}
-.icon3{
-  height: 25px;
-  width: 25px;
-}
-h2{
-  font-size: 3.8rem;
-  text-align: center;
-  font-weight: 400;
-}
-h3{
-  font-size: 3.4rem;
-  line-height: 1.3;
-}
-h4{
-  font-size: 2.4rem;
-  font-weight: 300;
-}
-h5{
-  font-size: 1.3rem;
-  font-weight: 300;
-}
-.banner{
-  min-height: 90vh;
-}
-/* Style the navbar */
-#navbar {
-  overflow: hidden;
-  background-color: white;
-}
+  h1, h2, h3, h4, h5, p, li {
+  margin-bottom: 0.5em
+  }
+  h1, h2, h3, h4 {
+    line-height: 1.3
+  }
+  section{
+    padding: 3%;
+  }
+  ul {
+    list-style-type: none;
+  }
+  .home{
+    background-color: white;
+  }
+  .bg{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height:200px;
+  }
+  hr {
+    border: none;
+    border-bottom: 2px solid black;
+    width: 3.5rem;
+    margin: 1rem 0;
+  }
+  hr.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  a {
+    display: inline-block;
+    color: black;
+    font-size: 1.3rem;
+  }
+  header a {
+    text-decoration: none;
+  }
+  post.url{
+    text-decoration: none;
+  }
+  .postTitle a{
+    text-decoration: none;
+  }
+  li{
+    font-size: 1.5rem;
+  }
+  header{
+    position: relative;
+    padding: 0 5%;
+    min-height: 4rem;
+  }
+  header nav a,
+  footer nav a {
+    text-decoration: none;
+    padding: 0 0.7rem;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 400;
+  }
+  header .icon{
+    height: 20px;
+    width: 20px;
+  }
+  .icon{
+    height: 100px;
+    width: 100px;
+    margin-bottom: 15px;
+  }
+  .icon2{
+    height: 25px;
+    width: 25px;
+    padding-right: 2px;
+    margin-top: 5px;
+  }
+  .icon3{
+    height: 25px;
+    width: 25px;
+  }
+  h2{
+    font-size: 3.8rem;
+    text-align: center;
+    font-weight: 400;
+  }
+  h3{
+    font-size: 3.4rem;
+    line-height: 1.3;
+  }
+  h4{
+    font-size: 2.4rem;
+    font-weight: 300;
+  }
+  h5{
+    font-size: 1.3rem;
+    font-weight: 300;
+  }
+  .banner{
+    min-height: 90vh;
+  }
+  /* Style the navbar */
+  #navbar {
+    overflow: hidden;
+    background-color: white;
+  }
 
-/* Navbar links */
-#navbar a {
-  float: left;
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 0px 16px 0px 16px;
-  text-decoration: none;
-}
+  /* Navbar links */
+  #navbar a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+  }
 
-/* Page content */
-.content {
-  padding: 12px;
-}
+  /* Page content */
+  .content {
+    padding: 12px;
+  }
 
-/* The sticky class is added to the navbar with JS when it reaches its scroll position */
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%
-}
-
-/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
-.sticky + .content {
-  padding-top: 50px;
-}
-/**
-**** SIDEBAR ****
-**/
-.content{
-  margin-left: 25px;
-}
-.sidebar{
-  padding: 5px;
-}
-.sidebar h4{
-  padding:5px;
-}
-.icon3 a{
-  height: 100px;
-  width: 100px;
-}
-.about{
-  min-height: 50vh;
-  padding: 0;
-}
-.bgAbout{
-  min-height: 50vh;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.bgPosts{
-  min-height: 450px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.about p{
-  padding-top: 2%;
-  padding-bottom: 2%;
-  padding-right: 2%;
-}
-.about h3{
-  font-size: 4.5rem;
-  line-height: 0px;
-  right: 615px;
-  position: absolute;
-  bottom: -112px;
-}
-.about hr{
-  padding-top: 15%;
-}
-.imageFlip{
-  transform: rotate(180deg);
-}
-.guides{
-  min-height: 75vh;
-}
-.bgGuides{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height:500px;
-  border-radius: 4px;
-}
-.textBox{
-  position: relative;
-  background-color:#02537d;
-  padding: 8%;
-  display: inline-block;
-  text-align: center;
-  border-radius: 5px;
-  top: 35%;
-  left: 12%;
-}
-.textBox button{
-  color: black;
-  background-color:#02537d;
-  padding: 3%;
-  font-size: 1.3rem;
-  border-radius: 4px;
-  border: 1px solid black;
-}
-.bottomCenter{
-  position: absolute;
-  bottom: 8px;
-  left:50%;
-}
-.hireBanner{
-  min-height: 80vh;
-}
-.hireBanner h3{
-  padding-top: 20%;
-}
-.hireBanner h5{
-  font-size: 1.3rem;
-  padding: 1%;
-}
-.hireBanner li{
-  font-size: 1rem;
-}
-.hireButton{
-  padding: 1.5%;
-  font-size: 1.3rem;
-  border-radius: 6px;
-  border: none;
-}
-.subscribe{
-  background-color: white;
-  padding: 3%;
-  min-height: 20vh;
-}
-.subscribe button{
-  background-color: #D1DEDE;
-  color: black;
-  padding: 1%;
-  font-size: 1.3rem;
-  border-radius: 6px;
-  border: black 1px solid;
-}
-/*input[type="email"] {
-  padding: 1%;
-  border-radius: 4px;
-  font-size: 18px;
-  border: none;
-}*/
-form{
-  padding: 2%;
-}
-/*
-Helpers
-*/
-.verticleCentered{
-  position: relative;
-  top: 50%;
-}
-.center{
-  text-align: center;
-}
-.left{
-  text-align: left;
-}
-.shorelines{
-  font-family: 'shorelines_script_boldregular';
-}
-.verticleText{
-  transform: rotate(90deg);
-  float: left;
-}
-.verticleDate{
-  transform: rotate(90deg);
-  float: left;
-  font-size: .82rem;
-  right: 9%;
-  position: relative;
-}
-.lineHeight{
-  line-height: 1;
-}
-.padding{
-  padding: 4%;
-}
-/*
-About text
-*/
-.aboutPage h2{
-  padding-top: 2%;
-}
-.aboutPage{
-  padding: 0;
-}
-.aboutText{
-  color:#1D201F;
-  font-size: 1.3rem;
-  background-color: #5BBA97;
-  line-height: 55px;
-}
-.abouth5{
-  font-size: 2rem;
-  line-height: 30px;
-}
-/*
-GOALS
-*/
-.goals{
-  background-color: white;
-  min-height: 30vh;
-}
-.goals h4{
-  padding-top: 3%;
-}
-/*
-WORK
-*/
-.work{
-  padding: 0 !important;
-}
- a:hover {
-  text-decoration: underline;
-}
-.overlay{
-  background-color: #00000087;
-}
-/*
-VA SECTION
-*/
-.vaSection{
-  background-color: #F4CCBC;
-  padding: 2%;
-}
-/*
-WEB DEV SECTION
-*/
-.webSection{
-  padding: 2%;
-  background-color: #5BBA97;
-}
-/*
-HOLIDAY LOVERS
-*/
-.holidaySection{
-  padding: 2%;
-  background-color: #C66B5F;
-}
-/*
-BLOG
-*/
-.blogImage{
-  width: 600px;
-  height: 300px;
-}
-.blogPage-image{
-  text-align: center;
-  position: relative;
-  left: 33%;
-}
-.blogImage2{
-  width: 250px;
-  height: 150px;
-}
-.blogContent{
-  min-width: 800px;
-}
-/*
-POSTS
-*/
-.posts{
-  padding:5%;
-}
-/*
-PORTFOLIO
-*/
-
-.portfolio{
-  padding-top: 2%;
-  line-height: 1;
-}
-/*
-FORM
-*/
-.feedback-input {
-  font-family: Helvetica, Arial, sans-serif;
-  font-weight:500;
-  font-size: 12px;
-  border-radius: 5px;
-  line-height: 22px;
-  background-color: transparent;
-  border:2px solid #D1DEDE;
-  transition: all 0.3s;
-  padding: 13px;
-  margin-bottom: 15px;
-  width:100%;
-  box-sizing: border-box;
-  outline:0;
-}
-
-.feedback-input:focus { border:2px solid #D1DEDE; }
-
-textarea {
-  height: 150px;
-  line-height: 150%;
-  resize:vertical;
-}
-
-[type="submit"] {
-  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
-  width: 100%;
-  background:#D1DEDE;
-  border-radius:5px;
-  border:0;
-  cursor:pointer;
-  color:black;
-  font-size:24px;
-  padding-top:10px;
-  padding-bottom:10px;
-  transition: all 0.3s;
-  margin-top:-4px;
-  font-weight:700;
-}
-[type="submit"]:hover { background:#D1DEDE; }
-/*
-Footer
-*/
-.footerAbout{
-  font-size: 1.3rem;
-}
-footer {
-  background-color: #C66B5F;
-  color: rgb(60,60,60);
-  padding: 5%;
-}
-.verticalIcons{
-  display: inline-block;
-  vertical-align: middle;
-}
-footer h2{
-  font-size: 3.2rem;
-}
-footer h5{
-  font-size: 2.5rem;
-}
-.footerLinks{
-  font-size: 1.2rem;
-}
-.sub-footer {
-  background-color: #35353f;
-  color: rgb(220,220,220);
-  padding: 0.5%;
-  text-align: center;
-  font-size: 0.8rem;
-}
-/*
-hamburger menu
-*/
-.hamburger-menu {
-    display: none;
+  /* The sticky class is added to the navbar with JS when it reaches its scroll position */
+  .sticky {
     position: fixed;
     top: 0;
-    right: 0;
-    bottom: 0;
-		background-color:rgb(240, 232, 220);
-    padding:3% 3% 10% 3%;
-		width: 465px;
-		text-align:center;
-    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.1);
-    z-index: 99999999;
-}
-.hamburger-menu a {
-  text-decoration: none;
-  font-size: 25px;
-  font-weight: 300;
-	color:black;
-	font-family: 'Lato', sans-serif;
-  display:block;
-  padding:8px 15px;
-  white-space:nowrap;
-}
-.hamburger-menu a:hover{
-	color:black;
-}
-a.smallMenu {
-	font-size: 25px;
-	font-weight: lighter;
-}
-.hamburger-menu li{list-style:none}
-.hamburger-button {
-  position:fixed;
-  top: 2vh;
-  right: 2vh;
-  z-index: 9999999999;
-  padding: 12px;
-}
-.hamburger-button span{
-  width: 50px;
-  border: 2px solid black;
-  background-color: black;
-  display: block;
-  border-radius: 22px;
-  transition: 2s;
-}
-.hamburger-top, .hamburger-bottom{
-  position: absolute;
-}
-.hamburger-top{
-  top: 02px;
-}
-.hamburger-bottom{
-  bottom: 02.5px;
-}
-.active .hamburger-top{
-   transform: rotateZ(45deg);
-  top:12px;
-  border-color:black;
-}
-.active .hamburger-bottom{
-   transform: rotateZ(-45deg);
-  bottom:12px;
-  border-color:black;
-}
-.active .hamburger-middle{
-  opacity:0;
-}
-a.socialIcon{
-	display:inline-block;
-	color: rgba(90, 69, 44, 1);
-}
-.sbIcon{
-	text-align: center;
-	}
-.mobileFooterIcons a{
-  padding: 5%;
-}
-@media all and (max-width:768px){
-    .hireBanner{
-      min-height: 150vh;
+    width: 100%
+  }
+
+  /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+  .sticky + .content {
+    padding-top: 50px;
+  }
+  /**
+  **** SIDEBAR ****
+  **/
+  .content{
+    margin-left: 25px;
+  }
+  .sidebar{
+    padding: 5px;
+  }
+  .sidebar h4{
+    padding:5px;
+  }
+  .icon3 a{
+    height: 100px;
+    width: 100px;
+  }
+  .about{
+    min-height: 50vh;
+    padding: 0;
+  }
+  .bgAbout{
+    min-height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .bgPosts{
+    min-height: 450px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .about p{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+  }
+  .about h3{
+    font-size: 4.5rem;
+    line-height: 0px;
+    right: 615px;
+    position: absolute;
+    bottom: -112px;
+  }
+  .about hr{
+    padding-top: 15%;
+  }
+  .imageFlip{
+    transform: rotate(180deg);
+  }
+  .guides{
+    min-height: 75vh;
+  }
+  .bgGuides{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;
+    border-radius: 4px;
+  }
+  .textBox{
+    position: relative;
+    background-color:#02537d;
+    padding: 8%;
+    display: inline-block;
+    text-align: center;
+    border-radius: 5px;
+    top: 35%;
+    left: 12%;
+  }
+  .textBox button{
+    color: black;
+    background-color:#02537d;
+    padding: 3%;
+    font-size: 1.3rem;
+    border-radius: 4px;
+    border: 1px solid black;
+  }
+  .bottomCenter{
+    position: absolute;
+    bottom: 8px;
+    left:50%;
+  }
+  .hireBanner{
+    min-height: 80vh;
+  }
+  .hireBanner h3{
+    padding-top: 20%;
+  }
+  .hireBanner h5{
+    font-size: 1.3rem;
+    padding: 1%;
+  }
+  .hireBanner li{
+    font-size: 1rem;
+  }
+  .hireButton{
+    padding: 1.5%;
+    font-size: 1.3rem;
+    border-radius: 6px;
+    border: none;
+  }
+  .subscribe{
+    background-color: white;
+    padding: 3%;
+    min-height: 20vh;
+  }
+  .subscribe button{
+    background-color: #D1DEDE;
+    color: black;
+    padding: 1%;
+    font-size: 1.3rem;
+    border-radius: 6px;
+    border: black 1px solid;
+  }
+  /*input[type="email"] {
+    padding: 1%;
+    border-radius: 4px;
+    font-size: 18px;
+    border: none;
+  }*/
+  form{
+    padding: 2%;
+  }
+  /*
+  Helpers
+  */
+  .verticleCentered{
+    position: relative;
+    top: 50%;
+  }
+  .center{
+    text-align: center;
+  }
+  .left{
+    text-align: left;
+  }
+  .shorelines{
+    font-family: 'shorelines_script_boldregular';
+  }
+  .verticleText{
+    transform: rotate(90deg);
+    float: left;
+  }
+  .verticleDate{
+    transform: rotate(90deg);
+    float: left;
+    font-size: .82rem;
+    right: 9%;
+    position: relative;
+  }
+  .lineHeight{
+    line-height: 1;
+  }
+  .padding{
+    padding: 4%;
+  }
+  /*
+  About text
+  */
+  .aboutPage h2{
+    padding-top: 2%;
+  }
+  .aboutPage{
+    padding: 0;
+  }
+  .aboutText{
+    color:#1D201F;
+    font-size: 1.3rem;
+    background-color: #5BBA97;
+    line-height: 55px;
+  }
+  .abouth5{
+    font-size: 2rem;
+    line-height: 30px;
+  }
+  /*
+  GOALS
+  */
+  .goals{
+    background-color: white;
+    min-height: 30vh;
+  }
+  .goals h4{
+    padding-top: 3%;
+  }
+  /*
+  WORK
+  */
+  .work{
+    padding: 0 !important;
+  }
+   a:hover {
+    text-decoration: underline;
+  }
+  .overlay{
+    background-color: #00000087;
+  }
+  /*
+  VA SECTION
+  */
+  .vaSection{
+    background-color: #F4CCBC;
+    padding: 2%;
+  }
+  /*
+  WEB DEV SECTION
+  */
+  .webSection{
+    padding: 2%;
+    background-color: #5BBA97;
+  }
+  /*
+  HOLIDAY LOVERS
+  */
+  .holidaySection{
+    padding: 2%;
+    background-color: #C66B5F;
+  }
+  /*
+  BLOG
+  */
+  .blogImage{
+    width: 600px;
+    height: 300px;
+  }
+  .blogPage-image{
+    text-align: center;
+    position: relative;
+    left: 33%;
+  }
+  .blogImage2{
+    width: 450px;
+    height: 430px;
+  }
+  .blogContent{
+    min-width: 800px;
+  }
+  /*
+  POSTS
+  */
+  .posts{
+    padding:5%;
+  }
+  /*
+  PORTFOLIO
+  */
+
+  .portfolio{
+    padding-top: 2%;
+    line-height: 1;
+  }
+  /*
+  FORM
+  */
+  .feedback-input {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight:500;
+    font-size: 12px;
+    border-radius: 5px;
+    line-height: 22px;
+    background-color: transparent;
+    border:2px solid #D1DEDE;
+    transition: all 0.3s;
+    padding: 13px;
+    margin-bottom: 15px;
+    width:100%;
+    box-sizing: border-box;
+    outline:0;
+  }
+
+  .feedback-input:focus { border:2px solid #D1DEDE; }
+
+  textarea {
+    height: 150px;
+    line-height: 150%;
+    resize:vertical;
+  }
+
+  [type="submit"] {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    width: 100%;
+    background:#D1DEDE;
+    border-radius:5px;
+    border:0;
+    cursor:pointer;
+    color:black;
+    font-size:24px;
+    padding-top:10px;
+    padding-bottom:10px;
+    transition: all 0.3s;
+    margin-top:-4px;
+    font-weight:700;
+  }
+  [type="submit"]:hover { background:#D1DEDE; }
+  /*
+  Footer
+  */
+  .footerAbout{
+    font-size: 1.3rem;
+  }
+  footer {
+    background-color: #C66B5F;
+    color: rgb(60,60,60);
+    padding: 5%;
+  }
+  .verticalIcons{
+    display: inline-block;
+    vertical-align: middle;
+  }
+  footer h2{
+    font-size: 3.2rem;
+  }
+  footer h5{
+    font-size: 2.5rem;
+  }
+  .footerLinks{
+    font-size: 1.2rem;
+  }
+  .sub-footer {
+    background-color: #35353f;
+    color: rgb(220,220,220);
+    padding: 0.5%;
+    text-align: center;
+    font-size: 0.8rem;
+  }
+  /*
+  hamburger menu
+  */
+  .hamburger-menu {
+      display: none;
+      position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+  		background-color:rgb(240, 232, 220);
+      padding:3% 3% 10% 3%;
+  		width: 465px;
+  		text-align:center;
+      box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.1);
+      z-index: 99999999;
+  }
+  .hamburger-menu a {
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 300;
+  	color:black;
+  	font-family: 'Lato', sans-serif;
+    display:block;
+    padding:8px 15px;
+    white-space:nowrap;
+  }
+  .hamburger-menu a:hover{
+  	color:black;
+  }
+  a.smallMenu {
+  	font-size: 25px;
+  	font-weight: lighter;
+  }
+  .hamburger-menu li{list-style:none}
+  .hamburger-button {
+    position:fixed;
+    top: 2vh;
+    right: 2vh;
+    z-index: 9999999999;
+    padding: 12px;
+  }
+  .hamburger-button span{
+    width: 50px;
+    border: 2px solid black;
+    background-color: black;
+    display: block;
+    border-radius: 22px;
+    transition: 2s;
+  }
+  .hamburger-top, .hamburger-bottom{
+    position: absolute;
+  }
+  .hamburger-top{
+    top: 02px;
+  }
+  .hamburger-bottom{
+    bottom: 02.5px;
+  }
+  .active .hamburger-top{
+     transform: rotateZ(45deg);
+    top:12px;
+    border-color:black;
+  }
+  .active .hamburger-bottom{
+     transform: rotateZ(-45deg);
+    bottom:12px;
+    border-color:black;
+  }
+  .active .hamburger-middle{
+    opacity:0;
+  }
+  a.socialIcon{
+  	display:inline-block;
+  	color: rgba(90, 69, 44, 1);
+  }
+  .sbIcon{
+  	text-align: center;
+  	}
+  .mobileFooterIcons a{
+    padding: 5%;
+  }
+  @media all and (max-width:768px){
+      .hireBanner{
+        min-height: 150vh;
+      }
+    }
+    @media all and (max-width:640px){
+      .mainNav{
+        display: none;
+      }
+    }
+  @media all and (min-width:640px){
+    .hamburger{
+      display:none;
     }
   }
-  @media all and (max-width:640px){
-    .mainNav{
+  @media all and (max-width:768px){
+    .fa-instagram, .fa-facebook, .fa-pinterest, .fa-youtube, .fa-twitter{
+      font-size: 30px;
+    }
+  }
+  @media all and (max-width:768px){
+    .verticleText{
+      transform:rotate(360deg);
+    }
+  }
+  @media all and (max-width:768px){
+    .about h3{
+      font-size: 3.4rem;
+      line-height: 0px;
+      right: 227px;
+      position: absolute;
+      bottom: -90px;
+    }
+  }
+  @media all and (max-width:768px){
+    h4{
+      font-size: 2rem;
+    }
+    p{
+      font-size: 1rem;
+    }
+    .verticalIcons{
+      text-align: center;
+    }
+    .about hr{
+      padding-top: 14%;
+    }
+  }
+  @media all and (max-width:667px){
+    .about hr{
+      padding-top: 30%;
+    }
+    .about h3{
+      font-size: 3.4rem;
+      line-height: 0px;
+      right: 92px;
+      position: absolute;
+      bottom: -70px;
+    }
+    .mainJ h2{
+      padding-top: 24%;
+    }
+  }
+  @media all and (max-width:667px){
+    .footerMain{
       display: none;
     }
   }
-@media all and (min-width:640px){
-  .hamburger{
-    display:none;
+  @media all and (min-width:667px){
+    .mobileFooter{
+      display: none;
+    }
   }
-}
-@media all and (max-width:768px){
-  .fa-instagram, .fa-facebook, .fa-pinterest, .fa-youtube, .fa-twitter{
-    font-size: 30px;
-  }
-}
-@media all and (max-width:768px){
-  .verticleText{
-    transform:rotate(360deg);
-  }
-}
-@media all and (max-width:768px){
-  .about h3{
-    font-size: 3.4rem;
-    line-height: 0px;
-    right: 227px;
-    position: absolute;
-    bottom: -90px;
-  }
-}
-@media all and (max-width:768px){
-  h4{
-    font-size: 2rem;
-  }
-  p{
-    font-size: 1rem;
-  }
-  .verticalIcons{
-    text-align: center;
-  }
-  .about hr{
-    padding-top: 14%;
-  }
-}
-@media all and (max-width:667px){
-  .about hr{
-    padding-top: 30%;
-  }
-  .about h3{
-    font-size: 3.4rem;
-    line-height: 0px;
-    right: 92px;
-    position: absolute;
-    bottom: -70px;
-  }
-  .mainJ h2{
-    padding-top: 24%;
-  }
-}
-@media all and (max-width:667px){
-  .footerMain{
-    display: none;
-  }
-}
-@media all and (min-width:667px){
-  .mobileFooter{
-    display: none;
-  }
-}

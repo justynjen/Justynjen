@@ -6,54 +6,24 @@ banner-image_path: /images/insta-tour5.jpg
 
 <h2 class="centered shorelines portfolio">Read the Blog</h2>
 <hr class="center"> </hr>
-<section class="blog blogContent grid">
-  <div class="col-9">
-      {% for post in site.posts %}
+<section class="blog">
+  <div class="blog-posts grid-middle-center">
 
-      <div class="center col-6_xs-12">
-        <img class="bg blogImage2" src="{{ post.feature-image_path }} " alt="">
-        <h4 class="center blogPosts"><a href="{{ post.url }}">{{ post.title }}</a></h4>
-        <p>
-          {{post.excerpt | truncatewords:25}}
-        </p>
-        <a href="{{post.url}}" class="center postUrl"> Read More</a>
-      </div>
+   {% for post in site.posts %}
 
-      {% endfor %}
+   <div class="blog-post col-6_sm-6_xs-12 center">
+     <img class="bg blogImage2" src="{{ post.feature-image_path }} " alt="">
+     <h4 class="center blogPosts"><a href="{{ post.url }}">{{ post.title }}</a></h4>
+     <p>
+         {{post.excerpt | truncatewords:25}}
+      </p>
+      <a href="{{post.url}}" class="center postUrl"> Read More</a>
+   </div>
+
+   {% endfor %}
+
   </div>
-    <div class="sidebar col-3_xs-12" id="sidebar">
-      <img class="sidebarImage"src="/images/bali/insta-tour5.jpg" alt="">
-      <h4 class="shorelines lineHeight center">Hello!</h4>
-      <p>My name is Justyn. Pronounced Just(in). Most people want to know if I was given this name for a reason, but as I always tell them, no my name has no meaning. It is just a name my dad was set on naming me whether I was a boy or not. I know now that I was given this name because I was meant to stand out and what better way to stand out then to be a girl with boy’s name. That’s the first question I get everytime I introduce myself.</p>
-        <div class="grid center">
-          <div class="col-12 padding">
-            <a href="http://instagram.com/justynjen"><i class="padding fa fa-instagram fa-2x" aria-hidden="true"></i></a>
-            <a href="http://pinterest.com/justynjen"><i class="fa fa-pinterest fa-2x padding" aria-hidden="true"></i></a>
-            <a href="http://facebook.com/justynjen"><i class="fa fa-facebook fa-2x padding" aria-hidden="true"></i></a>
-            <a href="http://twitter.com/justynjen"><i class="fa fa-twitter fa-2x padding" aria-hidden="true"></i></a>
-          </div>
-            <h4 class="shorelines lineHeight center">Top Posts</h4>
-              <div class="blog-posts grid-middle-center">
 
-                    {% for post in site.posts limit:4 %}
-
-                  <div class="blog-post col-12 center">
-                    <img class="bg blogImage" src="{{ post.feature-image_path }} " alt="">
-                    <div class="center">
-                      <h4 class="center"><a href="{{ post.url }}">{{ post.title }}</a><br /></h4>
-                      <p>
-
-                        {{post.excerpt | truncatewords:25}}
-
-                      </p>
-                      <a href="{{post.url}}" class="postUrl"> Read More</a>
-                    </div>
-                  </div>
-                        {% endfor %}
-
-              </div>
-        </div>
-  </div>
 </section>
 <section class="subscribe centered">
   <h2 class="shorelines lineHeight"> Subscribe </h2>
