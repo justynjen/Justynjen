@@ -54,7 +54,7 @@ hr.center {
 }
 a {
   display: inline-block;
-  color: inherit;
+  color: black;
   font-size: 1.3rem;
 }
 header a {
@@ -67,7 +67,7 @@ post.url{
   text-decoration: none;
 }
 li{
-  font-size: 1.3rem;
+  font-size: 1.5rem;
 }
 header{
   position: relative;
@@ -96,6 +96,10 @@ header .icon{
   width: 25px;
   padding-right: 2px;
   margin-top: 5px;
+}
+.icon3{
+  height: 25px;
+  width: 25px;
 }
 h2{
   font-size: 3.8rem;
@@ -160,6 +164,10 @@ h5{
 }
 .sidebar h4{
   padding:5px;
+}
+.icon3 a{
+  height: 50px;
+  width: 50px;
 }
 .about{
   min-height: 50vh;
