@@ -87,8 +87,8 @@ header .icon{
   width: 20px;
 }
 .icon{
-  height: 50px;
-  width: 50px;
+  height: 100px;
+  width: 100px;
   margin-bottom: 15px;
 }
 .icon2{
@@ -314,7 +314,7 @@ About text
 .aboutText{
   color:#1D201F;
   font-size: 1.3rem;
-  background-color: #EAD2AC;
+  background-color: #5BBA97;
   line-height: 55px;
 }
 .abouth5{
@@ -347,22 +347,22 @@ WORK
 VA SECTION
 */
 .vaSection{
-  background-color: #a9e8db;
+  background-color: #F4CCBC;
   padding: 2%;
 }
 /*
 WEB DEV SECTION
 */
 .webSection{
-  background-color: #0184a9;
   padding: 2%;
+  background-color: #5BBA97;
 }
 /*
 HOLIDAY LOVERS
 */
 .holidaySection{
   padding: 2%;
-  background-color: #e0f7e6;
+  background-color: #C66B5F;
 }
 /*
 BLOG
@@ -443,7 +443,7 @@ Footer
   font-size: 1.3rem;
 }
 footer {
-  background-color: #DF928E;
+  background-color: #C66B5F;
   color: rgb(60,60,60);
   padding: 5%;
 }
