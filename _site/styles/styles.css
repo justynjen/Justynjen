@@ -376,13 +376,17 @@ HOLIDAY LOVERS
 BLOG
 */
 .blogImage{
-  width: fit-content;
-  text-align: center;
+  width: 600px;
+  height: 300px;
 }
 .blogPage-image{
   text-align: center;
   position: relative;
   left: 33%;
+}
+.blogImage2{
+  width: 600px;
+  height: 450px;
 }
 
 /*
