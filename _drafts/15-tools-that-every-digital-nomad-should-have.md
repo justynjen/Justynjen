@@ -1,6 +1,6 @@
 ---
 layout: posts
-date: 2018-04-23 00:00:00
+date: 2018-04-24 00:00:00
 feature-image_path: /uploads/adult-book-business-297755.jpg
 title: 15 Tools That Every Digital Nomad Should Have
 Author: Justyn
