@@ -97,3 +97,7 @@ If you have this bad boy you don’t need much else. Never worry about Wi-Fi aga
 This eReader is the best for travel because it has those pages that actually look like book pages with no glare, meaning that you can now read all your favorites at the beach, in the airport or late at night in bed. eReading is the way of the world, go ahead and jump on board with this awesome new eReader from Kindle. The perfect way to relax when you have to work a lot.
 
 This may seem like a lot, but I swear I can’t take a trip without all of this with me. My business just wouldn’t run the same without it. What do you have to have in order to have your digital nomad business run smoothly?
+
+&nbsp;
+
+> \*\* This post contains affiliate links, which means if you buy anything, I get a portion of the proceeds at no additional cost to you! This simply means that I get to keep doing what I love, thanks to your support. Thanks in advance! \*\*
