@@ -11,11 +11,11 @@ tags:
 comments: true
 ---
 
-I am starting a new feature on my blog called Women Crush Wednesday where once a month I am going to feature boss babes that are killing the online world. I want to feature entrepreneurs that are kicking ass out there in the world. This week I am featuring Taylor Lane, Founder of Remote Like Me.&nbsp;
+I am starting a new feature on my blog called Women Crush Wednesday where once a month I am going to feature boss babes that are killing the online world. I want to feature entrepreneurs that are kicking ass out there in the world. This week I am featuring Taylor Lane, Founder of Remote Like Me. 
 
-Taylor is the ultimate boss babe! She has been running Remote Like Me for over a year now. It's a company that helps woman of all careers go remote. She does one on one coaching for women but she also has a series of memberships that you can join where she will help you on different levels for people with different needs.&nbsp;
+Taylor is the ultimate boss babe! She has been running Remote Like Me for over a year now. It's a company that helps woman of all careers go remote. She does one on one coaching for women but she also has a series of memberships that you can join where she will help you on different levels for people with different needs. 
 
-She has a 3 month road map for success. This means that in just 3 months she will take you from 0 to remote working hero in just 3 months. Taylor's goal is to help as many women go remote as possible. She's a remote queen!&nbsp;
+She has a 3 month road map for success. This means that in just 3 months she will take you from 0 to remote working hero in just 3 months. Taylor's goal is to help as many women go remote as possible. She's a remote queen! 
 
 ![](/uploads/14680535-1294069683950145-8224432922045626532-n-1.png)
 
@@ -37,4 +37,4 @@ I’ve been helping girls like you go remote like me since January, 2017."
 
 Now Tay is going to keep changing lives and helping girls making their dreams a reality hopefully forever! If you are interested in working with Taylor,[check out her site](http://remotelikeme.com). Her membership is only open for a limited time, so get in while you can.
 
-Taylor runs 3 memberships, each for people at a different level of their remote job search! She has a [monthly weekly roundup](http://remotelikeme.com/join) where she sends you weekly jobs that she hand picks for members. She has the [Remote Like Us membership](http://remotelikeme.com/join) where she has video trainings, pdfs and you still get those weekly emails. Lastly, she has the [VIP membership](http://remotelikeme.com/join) where you get everything I've already listed plus resume checks, interview help and group coaching! This is the ultimate resource for getting a remote career.&nbsp;
+Taylor runs 3 memberships, each for people at a different level of their remote job search! She has a [monthly weekly roundup](http://remotelikeme.com/join) where she sends you weekly jobs that she hand picks for members. She has the [Remote Like Us membership](http://remotelikeme.com/join) where she has video trainings, pdfs and you still get those weekly emails. Lastly, she has the [VIP membership](http://remotelikeme.com/join) where you get everything I've already listed plus resume checks, interview help and group coaching! This is the ultimate resource for getting a remote career.
