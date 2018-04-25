@@ -151,7 +151,7 @@
 
   /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
   .sticky + .content {
-    padding-top: 50px;
+    padding-top: 25px;
   }
   /**
   **** SIDEBAR ****
@@ -402,7 +402,7 @@
   */
 
   .portfolio{
-    padding-top: 2%;
+    padding-top: 7%;
     line-height: 1;
   }
   /*
