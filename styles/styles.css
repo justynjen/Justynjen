@@ -192,13 +192,8 @@
   }
   .about h3{
     font-size: 4.5rem;
-    line-height: 0px;
-    right: 615px;
-    position: absolute;
-    bottom: -112px;
-  }
-  .about hr{
-    padding-top: 15%;
+    line-height: 5px;
+    padding-top: 35px;
   }
   .imageFlip{
     transform: rotate(180deg);
