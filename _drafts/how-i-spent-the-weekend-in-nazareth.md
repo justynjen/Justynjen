@@ -6,8 +6,6 @@ title: How I Spent The Weekend In Nazareth
 Author: Justyn
 tags:
   - '-travel'
-  - Work Online
-  - Digital Nomads
 comments: true
 ---
 
