@@ -575,6 +575,11 @@
         display: none;
       }
     }
+  @media all and(max-width:640px){
+    .work{
+      text-align: center;
+    }
+  }
   @media all and (min-width:640px){
     .hamburger{
       display:none;
