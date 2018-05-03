@@ -56,6 +56,10 @@
     display: inline-block;
     color: black;
     font-size: 1.3rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight:lighter;
+    vertical-align: middle;
   }
   header a {
     text-decoration: none;
@@ -173,6 +177,15 @@
     min-height: 50vh;
     padding: 0;
   }
+.blog .postTitle{
+    font-size: 2.5rem;
+    line-height: 1.05;
+    bottom: 0;
+    width: 86%;
+    left: 7%;
+    right: 7%;
+    background: #fff;
+  }
   .bgAbout{
     min-height: 50vh;
     background-position: center;
@@ -197,16 +210,6 @@
   }
   .imageFlip{
     transform: rotate(180deg);
-  }
-  .guides{
-    min-height: 75vh;
-  }
-  .bgGuides{
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height:500px;
-    border-radius: 4px;
   }
   .textBox{
     position: relative;
@@ -340,9 +343,6 @@
   .work{
     padding: 0 !important;
   }
-   a:hover {
-    text-decoration: underline;
-  }
   .overlay{
     background-color: #00000087;
   }
@@ -370,14 +370,24 @@
   /*
   BLOG
   */
-  .blogImage{
-    width: 600px;
-    height: 300px;
+.blog{
+  vertical-align: middle;
+}
+.blogOverlay{
+      position: relative;
+      left: 0;
+      max-width: 80%;
+      bottom: 130px;
+      vertical-align: middle;
+      background: #fffc;
+      text-decoration: uppercase;
   }
-  .blogPage-image{
-    text-align: center;
-    position: relative;
-    left: 33%;
+  .blogOverlay .postTitle{
+    text-decoration: uppercase;
+  }
+  .blogImage{
+    width: 550px;
+    height: 550px;
   }
   .blogImage2{
     width: 480px;
