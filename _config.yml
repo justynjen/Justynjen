@@ -29,8 +29,8 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "default"
-      title: The Gourdins
-      banner-image: /images/aspens.jpg
+      title: JustynJen
+      banner-image: /images/popalm.jpg
 
 _options:
   image_path:
