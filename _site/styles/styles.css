@@ -373,6 +373,23 @@
   /*
   BLOG
   */
+.container{
+    position: relative;
+    text-align: center;
+    background-color: white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffffffb3;
+    padding: 10%;
+    border-radius: 1px;
+}
+.centered a{
+    font-weight: bold;
+}
 .blog{
   vertical-align: middle;
 }
@@ -394,7 +411,7 @@
   }
   .blogImage2{
     width: 480px;
-    height: 430px;
+    height: 350px;
   }
   .blogContent{
     min-width: 800px;
