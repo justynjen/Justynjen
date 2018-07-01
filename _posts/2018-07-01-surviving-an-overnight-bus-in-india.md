@@ -27,7 +27,7 @@ We made one stop on the journey and everyone was sick. I was basically dying. I 
 
 That’s why I have decided to share with you everything you need to be more prepared than I was for those treacherous overnight buses in India.
 
-![](/uploads/img-0474.png){: srcset="/uploads/img-0474.png 182w, /uploads/img-0474@2x.png 364w"}
+&nbsp;
 
 #### What to pack for an overnight bus in India
 
@@ -53,6 +53,10 @@ Those are my best tips for surviving those long haul overnight buses through Ind
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/img-0377-1.png "Photo by http://birdwinks.com"){: srcset="/uploads/img-0377-1.png 321w, /uploads/img-0377-1@2x.png 642w"}
 
-##### Pin this for later!&nbsp;
+##### &nbsp;
 
-![](/uploads/overnight-bus-india-2.png){: srcset="/uploads/overnight-bus-india-2.png 90w, /uploads/overnight-bus-india-2@2x.png 180w"}&nbsp; &nbsp;
+##### Pin this for later!
+
+##### &nbsp;
+
+![](/uploads/overnight-bus-india-3.png){: srcset="/uploads/overnight-bus-india-3.png 364w, /uploads/overnight-bus-india-3@2x.png 728w"}&nbsp; &nbsp;
