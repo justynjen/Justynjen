@@ -11,8 +11,6 @@ tags:
 comments: true
 ---
 
-## &nbsp;
-
 Finally getting around to writing about my trip to India! That’s usually how it goes, wouldn’t you agree? You go on a trip and then approximately 6 months later you finally write about it…
 
 While I was in India I had the great pleasure of taking several overnight (16+ hour long) bus journeys. What a joy it was (Thanks Knomadic – The travel company I went to India with.) The first bus journey wasn’t so bad. We traveled from Bangalore to Goa. This was the longest bus journey. We were told it would be around 12 hours and it ended up being something more like 17 hours. The part that wasn’t so bad though was that it was a proper sleeper bus, so we got to lie down. I was also lucky to have a bunk with Christina (my fab German friend from Birdwinks).
