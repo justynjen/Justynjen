@@ -36,6 +36,7 @@ That’s why I have decided to share with you everything you need to be more pre
 2. Download movies and tv shows. These buses may say they are 9 hours but chances are it’s going to be more like 15 hours. So be prepared with entertainment.
 
 3. Snacks and food! We did stop for food once on the ride but it’s always nice to have lots of snacks. (The bus to Goa didn’t really stop for food, but it did have a few snack options when they stopped the one time) If you sleep through the bus stopping or your bus ends up taking 5 hours longer than expected, you are going to be grateful for that extra bag of chips you picked up.
+
 4. Like snacks, take plenty of water and other things to drink. I like to have plenty of water but I am also one of those people who wants to have something with flavor. So I brought water and juice. But remember, the bus only stops one or two times and none of my buses had toilets onboard! So don’t drink too much!
 5. Warm clothes/an extra scarf and sweater to curl up in! I found all the buses to be freezing. Especially if you are sat next to the window. I froze, so I was very grateful to have an extra sweater and scarf with me to curl up in.
 6. Extra battery charger. One of my buses had plugs but in true India fashion, they didn’t work. So take an external battery charger just to be safe!
