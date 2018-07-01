@@ -13,7 +13,7 @@ comments: true
 
 Finally getting around to writing about my trip to India! That’s usually how it goes, wouldn’t you agree? You go on a trip and then approximately 6 months later you finally write about it…
 
-While I was in India I had the great pleasure of taking several overnight (16+ hour long) bus journeys. What a joy it was (Thanks Knomadic – The travel company I went to India with.) The first bus journey wasn’t so bad. We traveled from Bangalore to Goa. This was the longest bus journey. We were told it would be around 12 hours and it ended up being something more like 17 hours. The part that wasn’t so bad though was that it was a proper sleeper bus, so we got to lie down. I was also lucky to have a bunk with Christina (my fab German friend from Birdwinks).
+While I was in India I had the great pleasure of taking several overnight (16+ hour long) bus journeys. What a joy it was. The first bus journey wasn’t so bad. We traveled from Bangalore to Goa. This was the longest bus journey. We were told it would be around 12 hours and it ended up being something more like 17 hours. The part that wasn’t so bad though was that it was a proper sleeper bus, so we got to lie down. I was also lucky to have a bunk with Christina (my fab German friend from Birdwinks).
 
 Chris and I curled up to watch Superwoman and after that I was able to get a few hours of sleep though I mostly stared out the window waiting desperately to arrive. The rough news was, I did happen to sleep through the 1 stop we had and wasn’t able to use the toilet for HOURS.
 
@@ -26,6 +26,8 @@ However, the overnight bus that takes the cake for being the absolute worse was 
 We made one stop on the journey and everyone was sick. I was basically dying. I couldn’t wait for us to be back in Dehli.
 
 That’s why I have decided to share with you everything you need to be more prepared than I was for those treacherous overnight buses in India.
+
+![](/uploads/img-0474.png){: srcset="/uploads/img-0474.png 182w, /uploads/img-0474@2x.png 364w"}
 
 #### What to pack for an overnight bus in India
 
@@ -51,4 +53,6 @@ Those are my best tips for surviving those long haul overnight buses through Ind
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/img-0377-1.png "Photo by http://birdwinks.com"){: srcset="/uploads/img-0377-1.png 321w, /uploads/img-0377-1@2x.png 642w"}
 
-&nbsp;
+##### Pin this for later!&nbsp;
+
+![](/uploads/overnight-bus-india-2.png){: srcset="/uploads/overnight-bus-india-2.png 90w, /uploads/overnight-bus-india-2@2x.png 180w"}&nbsp; &nbsp;
