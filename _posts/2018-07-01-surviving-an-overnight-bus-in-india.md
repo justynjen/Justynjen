@@ -13,7 +13,7 @@ comments: true
 
 ## Surviving an Overnight Bus in India
 
-&nbsp;
+ 
 
 Finally getting around to writing about my trip to India! That’s usually how it goes, wouldn’t you agree? You go on a trip and then approximately 6 months later you finally write about it…
 
@@ -50,6 +50,6 @@ Here’s just a few things to have done before you get on the bus!
 
 Those are my best tips for surviving those long haul overnight buses through India! I hope that you can learn from my mistakes and have a much more pleasant experience!
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/img-0377-1.png "Photo by http://birdwinks.com"){: srcset="/uploads/img-0377-1.png 321w, /uploads/img-0377-1@2x.png 642w"}
+                                  ![](/uploads/img-0377-1.png "Photo by http://birdwinks.com"){: srcset="/uploads/img-0377-1.png 321w, /uploads/img-0377-1@2x.png 642w"}
 
-<br>&nbsp;
+<br>
