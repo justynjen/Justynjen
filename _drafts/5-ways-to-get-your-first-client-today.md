@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-07-04 14:00:00
-feature-image_path: /uploads/pexels-photo-744802.jpeg
+feature-image_path: /uploads/haute-stock-photography-sand-final-6.jpg
 title: 5 Ways to Get Your First Client Today!
 Author: Justyn
 tags:
@@ -44,11 +44,11 @@ A little last thing, I am going to link some resources where you can find legit 
 
 And yah the other option that I always tell people to go with is Facebook Groups! I have gotten MOST of my work in Facebook Groups. I will leave the links for some of the groups I am in below as well!
 
-1. Remote Like Me Community
-2. Work From Home (without selling anything)
-3. Digital Nomad Girls Community
-4. Freelancing Females
-5. Digital Nomads
-6. Copywriter Cult Board
+1. [Remote Like Me Community](https://www.facebook.com/groups/365479800498644/){: target="_blank"}
+2. [Work From Home (without selling anything)](https://www.facebook.com/groups/virtualassistantinternship/){: target="_blank"}
+3. [Digital Nomad Girls Community](https://www.facebook.com/profile.php?id=137079449965184&amp;ref=br_rs){: target="_blank"}
+4. [Freelancing Females](https://www.facebook.com/profile.php?id=521845388203729&amp;ref=br_rs){: target="_blank"}
+5. [Digital Nomads](https://www.facebook.com/groups/DigitalNomadJobs/?ref=br_rs){: target="_blank"}
+6. [Copywriter Cult Board](https://www.facebook.com/groups/copyjobs/?ref=br_rs){: target="_blank"}
 
 Now go get applying my lovelies! It’s time you get to start working online today!
