@@ -36,11 +36,11 @@ Now finally, to start getting clients right away, you need to be applying, A LOT
 
 A little last thing, I am going to link some resources where you can find legit jobs to apply to, without having to use Facebook Groups alone or sites like Upwork!
 
-1. Working Nomads
-2. Remote Work Hub - has a paid version, but I just use the free version!
-3. Remote Like Me
-4. The Nomad List
-5. Digital Nomad Girls Job Board
+1. [Working Nomads](workingnomads.co/jobs){: target="_blank"}
+2. [Remote Work Hub](remoteworkhub.com){: target="_blank"} - has a paid version, but I just use the free version!
+3. [Remote Like Me](remotelikeme.com){: target="_blank"}
+4. [The Nomad List](thenomadlist.com){: target="_blank"}
+5. [Digital Nomad Girls Job Board](https://digitalnomadgirls.com/jobs/){: target="_blank"}
 
 And yah the other option that I always tell people to go with is Facebook Groups! I have gotten MOST of my work in Facebook Groups. I will leave the links for some of the groups I am in below as well!
 
