@@ -11,11 +11,17 @@ tags:
 comments: true
 ---
 
+&nbsp;
+
 Well you’ve decided to be a freelancer. Good for you! Now you are on the magical journey of trying to figure out how you can start getting clients. Let’s talk for a quick second about the places that I do not recommend going for these clients.
+
+&nbsp;
 
 1. Upwork - Listen, I don’t care what anyone else had told you, it sucks. They take 20% of your money - which is a ton in the grand scheme of things. They don’t pay you until you have $100 and they don’t protect you if you do the work and the client suddenly decided they don’t need it anymore. They just say, oh well, you did all that work for nothing. See yah. Your money in Escrow will just head straight back into that clients account. BUH BYE. So no thanks, I am done getting screwed over by Upwork. Not to mention, clients on there want cheap work. They don’t want to pay for quality.
 2. Guru - got totally screwed out of $2,000 because my client disappeared and they did nothing to help me.
 3. Fiverr - nothing I do is worth $5. NOTHING.
+
+&nbsp;
 
 Alright that’s enough of that. Let’s talk about 5 ways that you can start getting real, legit clients today!
 
@@ -32,9 +38,13 @@ Fourth, make sure that you put together samples of your work. Don’t have any s
 3. Graphics and photography examples
 4. Stats! This one is the most important. I have good stats for my own blog - which then shows people what I can do for them! Holla!
 
+&nbsp;
+
 Now finally, to start getting clients right away, you need to be applying, A LOT. A friend once told me that I will hear back on 1 in 10 applications. That’s the truest thing that I have ever been told. So how do you battle this? You apply, a lot!
 
 A little last thing, I am going to link some resources where you can find legit jobs to apply to, without having to use Facebook Groups alone or sites like Upwork!
+
+&nbsp;
 
 1. [Working Nomads](workingnomads.co/jobs){: target="_blank"}
 2. [Remote Work Hub](remoteworkhub.com){: target="_blank"} - has a paid version, but I just use the free version!
@@ -43,6 +53,8 @@ A little last thing, I am going to link some resources where you can find legit 
 5. [Digital Nomad Girls Job Board](https://digitalnomadgirls.com/jobs/){: target="_blank"}
 
 And yah the other option that I always tell people to go with is Facebook Groups! I have gotten MOST of my work in Facebook Groups. I will leave the links for some of the groups I am in below as well!
+
+&nbsp;
 
 1. [Remote Like Me Community](https://www.facebook.com/groups/365479800498644/){: target="_blank"}
 2. [Work From Home (without selling anything)](https://www.facebook.com/groups/virtualassistantinternship/){: target="_blank"}
