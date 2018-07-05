@@ -25,13 +25,23 @@ Well you’ve decided to be a freelancer. Good for you! Now you are on the magic
 
 Alright that’s enough of that. Let’s talk about 5 ways that you can start getting real, legit clients today!
 
+&nbsp;
+
 First things first join some Facebook groups and start being active in them right away! Don’t spam people because they will hate you, but find ways to be active. Ask for feedback, give feedback. Participate. Post pictures of your dogs. The more people know you, the more likely they are to recommend or hire you!
+
+&nbsp;
 
 Secondly, customize your resume! Every job you apply for should get a customized resume and cover letter. Do you have no idea what I am talking about? Go ahead and talk to Taylor at Remote Like Me. She created a course just for this. You can sign up today and start applying better tomorrow.
 
+&nbsp;
+
 Third, make sure that you are following people directions. If they say to email them and in the header tell them your dogs name and then to forward that to your second aunt and then tell them what your favorite starbucks beverage is and why. THEN DO IT. You have a way better chance of standing out when you actually take the time to follow people’s directions.
 
+&nbsp;
+
 Fourth, make sure that you put together samples of your work. Don’t have any samples? Go offer to do something for someone for free to get a sample. Don’t want to do that? That’s okay, go and do stuff for yourself. I started a blog for several reasons:
+
+&nbsp;
 
 1. Website example - shows people my web dev skills
 2. Writing examples - tons of content on here that i have written!
@@ -51,6 +61,8 @@ A little last thing, I am going to link some resources where you can find legit 
 3. [Remote Like Me](remotelikeme.com){: target="_blank"}
 4. [The Nomad List](thenomadlist.com){: target="_blank"}
 5. [Digital Nomad Girls Job Board](https://digitalnomadgirls.com/jobs/){: target="_blank"}
+
+&nbsp;
 
 And yah the other option that I always tell people to go with is Facebook Groups! I have gotten MOST of my work in Facebook Groups. I will leave the links for some of the groups I am in below as well!
 
