@@ -57,55 +57,15 @@ For accommodation in Cuba the best option to go with is the Casa Particulars. I 
 
 For transportation we mostly ended up taking taxi cabs of different variety everywhere. You can literally take a taxi anywhere; they have those amazing old cars, bikes with a little backseat for you. Then they have traditional yellow taxi cabs, those are the most expensive though. Always make sure before going anywhere that you know how much you are going to get charged because most of the time they do not turn on the meter for tourists. Some taxis did use the meter, but it was uncommon. Our original plan was to take the viazul bus to Trinidad but we didn’t book in advance so when we got to the bus station we found out that there was no available bus to take. If this happens to you, your options are to take a shared taxi or a private taxi. We ended up in a private taxi because the guy gave us about a $60 deal off and they would take us and return to bring us back to Havana; besides my parents were way more interested in a private air conditioned taxi for just us.
 
-All over costs
+### &nbsp;
+
+### What did it cost?
+
+&nbsp;
 
 I always keep track and document all the money spent while I am traveling and I decided to share that here with you, so you can have an idea of how much money you should bring, since you have to carry it all with you when you go. Cuba is more expensive, compared to the other Central American countries, so you need to keep that in mind. While the accommodation was fairly cheap and you can find cheap eats, things seem to add up quickly and we spent a lot more than I have in other surrounding countries.
 
-Country
-
-Total Spent
-
-Days in Country
-
-Cost per day
-
-Cuba
-
-1,421.48
-
-7
-
-203.06
-
-Totals :
-
-$1,421.48
-
-7
-
-$203.06
-
-Accommodation
-
-Transportation
-
-Food
-
-Entertainment
-
-Other
-
-$39.71
-
-$67.14
-
-$55.67
-
-$7.07
-
-$32.75
-
-<br>&nbsp;
+The entire trip cost us $1,421.48.&nbsp;
 
 This is pretty good considering there were 3 of us. So this is a budget for 3 people, it also includes the cigars that my parents bought. So all in all, one person in Cuba for one week may spend an average of about $67.69 a day. If you are able to ride the bus instead of taking a taxi in between cities you will save a lot of money, and if you avoid buying cigars and other things that we bought, you’ll be doing even better than that. We were able to fly roundtrip from Salt Lake to Havana for $400 per person, which was a really good deal as well. As long as you plan it right, and far enough in advance you can have a fairly cheap trip to Cuba!
 
