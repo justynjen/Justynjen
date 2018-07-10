@@ -129,7 +129,7 @@
   #navbar {
     overflow: hidden;
     background-color: white;
-    z-index: 99999;
+    z-index: 999999999;
   }
 
   /* Navbar links */
