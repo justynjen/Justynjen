@@ -49,7 +49,11 @@ Don’t expect Americanized Cuban food, in Cuba. The flavorful Cuban cuisine tha
 
 For accommodation in Cuba the best option to go with is the Casa Particulars. I booked mine on Airbnb and if you choose that option, you can $40 free signing up here. We loved everywhere that we stayed. The families that hosted us were amazing. They were so informative and even though we had a huge language barrier, they were happy to chat and try to tell us everything that we should do and eat. I could not imagine staying in Cuba anywhere else, I have already began staying in touch with the people we stayed with and if I ever go back to Cuba, I know that I would be welcome to stay with them again. The houses were all very clean and they even came and cleaned our rooms like hotel service while we were out for the day. My favorite place that we stayed was in Trinidad, I had my own room with Aircon and a nice bathroom with a kitchen and outdoor patio as well. We got to eat our breakfast at the patio table outside and enjoy the outdoors and beautiful plants they had planted everywhere.
 
-Transportation
+&nbsp;
+
+### 5. Getting Around&nbsp;
+
+&nbsp;
 
 For transportation we mostly ended up taking taxi cabs of different variety everywhere. You can literally take a taxi anywhere; they have those amazing old cars, bikes with a little backseat for you. Then they have traditional yellow taxi cabs, those are the most expensive though. Always make sure before going anywhere that you know how much you are going to get charged because most of the time they do not turn on the meter for tourists. Some taxis did use the meter, but it was uncommon. Our original plan was to take the viazul bus to Trinidad but we didn’t book in advance so when we got to the bus station we found out that there was no available bus to take. If this happens to you, your options are to take a shared taxi or a private taxi. We ended up in a private taxi because the guy gave us about a $60 deal off and they would take us and return to bring us back to Havana; besides my parents were way more interested in a private air conditioned taxi for just us.
 
