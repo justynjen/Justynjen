@@ -129,6 +129,7 @@
   #navbar {
     overflow: hidden;
     background-color: white;
+    z-index: 99999;
   }
 
   /* Navbar links */
@@ -410,8 +411,8 @@
     height: 300px;
   }
   .blogImage2{
-    width: 480px;
-    height: 350px;
+    width: 470px;
+    height: 345px;
   }
   .blogContent{
     min-width: 800px;
