@@ -7,7 +7,7 @@
     overflow-x: hidden;
     font-size: 1rem;
     color: rgb(60,60,60);
-    font-family: 'Lato';
+    font-family: 'Montserrat', sans-serif;
   }
   body{
     background-color: #eeeeee0d;
@@ -20,7 +20,6 @@
     font-size: 1.1rem;
     line-height: 1.6
   }
-
   h1, h2, h3, h4, h5, p, li {
   margin-bottom: 0.5em
   }
@@ -41,6 +40,11 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height:200px;
+  }
+  .logo{
+    text-transform: lowercase;
+    font-size: 2.4rem;
+    font-family: 'aurellia_scriptregular';
   }
   hr {
     border: none;
@@ -83,7 +87,6 @@
     text-decoration: none;
     padding: 0 0.7rem;
     font-size: 1rem;
-    text-transform: uppercase;
     font-weight: 400;
   }
   header .icon{
@@ -117,10 +120,21 @@
   h4{
     font-size: 2.4rem;
     font-weight: 300;
+    text-transform: uppercase;
   }
   h5{
     font-size: 1.3rem;
     font-weight: 300;
+  }
+  button{
+    background-color: #D1DEDE;
+    padding: 15px;
+    border-radius: 4px;
+    border: none;
+    color: white;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-weight: lighter;
   }
   .banner{
     min-height: 80vh;
@@ -156,7 +170,7 @@
 
   /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
   .sticky + .content {
-    padding-top: 25px;
+    padding-top: 20px;
   }
   /**
   **** SIDEBAR ****
@@ -203,11 +217,6 @@
     padding-top: 2%;
     padding-bottom: 2%;
     padding-right: 2%;
-  }
-  .about h3{
-    font-size: 4.5rem;
-    line-height: 5px;
-    padding-top: 35px;
   }
   .imageFlip{
     transform: rotate(180deg);
@@ -279,6 +288,12 @@
   /*
   Helpers
   */
+  #grad {
+  background-image: linear-gradient(-90deg, #C66B5F, #c66b5fb0);
+}
+.paddingTop{
+  padding-top: 5%;
+}
   .verticleCentered{
     position: relative;
     top: 50%;
@@ -290,7 +305,8 @@
     text-align: left;
   }
   .shorelines{
-    font-family: 'shorelines_script_boldregular';
+    font-family: 'aurellia_scriptregular';
+    font-weight: lighter;
   }
   .verticleText{
     transform: rotate(90deg);
@@ -385,7 +401,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #fbfbfac4;
-    padding: 20px 19px;
+    padding: 14px 60px;
     border-radius: 1px;
 }
 .centered a{
@@ -411,8 +427,8 @@
     height: 300px;
   }
   .blogImage2{
-    width: 470px;
-    height: 345px;
+    width: 525px;
+    height: 395px;
   }
   .blogContent{
     min-width: 800px;
@@ -428,7 +444,7 @@
   */
 
   .portfolio{
-    padding-top: 7%;
+    padding-top: 9%;
     line-height: 1;
   }
   /*
@@ -485,7 +501,7 @@ RESOURCES
   Footer
   */
   .footerAbout{
-    font-size: 1.3rem;
+    font-size: 1.5rem;
   }
   footer {
     background-color: #C66B5F;
@@ -500,7 +516,7 @@ RESOURCES
     font-size: 3.2rem;
   }
   footer h5{
-    font-size: 2.5rem;
+    font-size: 3.2rem;
   }
   .footerLinks{
     font-size: 1.2rem;
@@ -533,7 +549,7 @@ RESOURCES
     font-size: 25px;
     font-weight: 300;
   	color:black;
-  	font-family: 'Lato', sans-serif;
+  	font-family: 'Montserrat', sans-serif;
     display:block;
     padding:8px 15px;
     white-space:nowrap;

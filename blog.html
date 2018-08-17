@@ -12,12 +12,12 @@ banner-image_path: /images/insta-tour5.jpg
 
    {% for post in site.posts %}
 
-   <div class="blog-post col-3_sm-6_xs-12 center">
+   <div class="blog-post col-4_sm-6_xs-12 center">
      <div class="container">
-       <img class="bg blogImage2" src="{{ post.feature-image_path }} " alt="">
+       <img class="blogImage2" src="{{ post.feature-image_path }} " alt="">
        <div class="centered">
          <h3 class="center blogPosts"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-         <a href="{{post.url}}" class="center postUrl shorelines"> Read More</a>
+         <a href="{{post.url}}" class="center postUrl"> Read More</a>
        </div>
      </div>
    </div>

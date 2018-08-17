@@ -12,8 +12,7 @@
 <!--  Links to stylesheets -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.4.1/gridlex.min.css" rel="stylesheet" >
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 <link href="/styles/styles.css" rel="stylesheet">
 <link rel="stylesheet" href="/styles/stylesheet.css">
 <link rel="icon" href="favicon.ico" type="image/x-icon"/>
@@ -46,11 +45,14 @@
   <body>
 
       <header class="grid-spaceBetween-middle mainNav" id="navbar">
-  <nav>
+  <!--<nav>
     <a target="_blank"href="http://instagram.com/justynjen"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
     <a target="_blank"href="http://pinterest.com/justynjen"><i class="fa fa-pinterest fa-2x" aria-hidden="true"></i></a>
     <a target="_blank"href="http://facebook.com/justynjen"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
     <a target="_blank"href="http://twitter.com/justynjen"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+  </nav>-->
+  <nav>
+    <a class="logo" href="/">Justynjen</a>
   </nav>
    <nav>
       <a href="/"> Home </a>
@@ -85,15 +87,10 @@
 
 
       <section class="banner bg grid-top-center" data-pin-do="buttonPin"  style="background-image:url('/images/bali/instaTour.jpg');">
-  <div class="col-4_sm-12">
-    <h2 class="shorelines padding lineHeight mainJ portfolio">Justynjen</h2>
-    <hr class="center"> </hr>
-    <p class="center">Coder, Blogger, Traveler</p>
+  <div class="col-6_sm-12">
+    <h3 class="padding lineHeight mainJ portfolio center">Welcome to the Adventure </h3>
   </div>
-  <div class="col-4_xs-0">
-
-  </div>
-  <div class="col-4_xs-0">
+  <div class="col-6_xs-0">
 
   </div>
 </section>
@@ -108,31 +105,30 @@
   </div>
   <div class="col-7_sm-6 padding">
     <h3 class="shorelines"> Hello! </h3>
-    <hr> </hr>
     <h4 class="name"> I'm Justyn </h4>
     <h5>pronounced just(in)</h5>
-    <p>I’m a digital nomad with a passion for writing, taking photos and helping others live their best life. I share personal travel stories as well as tips for finding the best wifi, cafes and working spaces around the world. I have been traveling for just about 3 years now and have been lucky enough to fund my traveling through working remote.
+    <p>I’m a freelancer with a passion for writing, taking photos and helping others live their best life. I share personal travel stories as well as tips for finding the best wifi, cafes and working spaces around the world. I have been traveling for just about 3 years now and have been lucky enough to fund my traveling through working remote.
     <br>
     <br>
     My happiest days are spent sipping coffee at little cafes and exploring new cities around the world.
  </p>
   </div>
 </section>
-<section class="grid goals">
+<section class="grid goals" id="grad">
   <div class="col-4_sm-12 center">
-    <h4 class="shorelines">Countries</h4>
-    <h4>51</h4>
+    <h4>Countries</h4>
+    <h4 class="shorelines">51</h4>
   </div>
   <div class="col-4_sm-12 center">
-    <h4 class="shorelines">Cities</h4>
-    <h4>200</h4>
+    <h4>Cities</h4>
+    <h4 class="shorelines">200</h4>
   </div>
   <div class="col-4_sm-12 center">
-    <h4 class="shorelines">Continents</h4>
-    <h4>5</h4>
+    <h4>Continents</h4>
+    <h4 class="shorelines">5</h4>
   </div>
 </section>
-<section class="grid work">
+<!--<section class="grid work">
   <div class="col-4_xs-12 center vaSection">
     <img class="icon"src="/images/Makers-paintbrush.png" alt="">
     <h3 class="shorelines">Branding</h3>
@@ -181,8 +177,8 @@
     </div>
     <a href="/pinterest.html"class="learn hireButton shorelines">LEARN MORE</a>
   </div>
-</section>
-<section class="blog center">
+</section>-->
+<section class="blog center paddingTop">
   <h2 class="center shorelines">Read the blog</h2>
   <a data-pin-do="buttonBookmark" href="https://www.pinterest.com/pin/create/button/"></a>
   <div class="blog-posts grid-middle-center center">
@@ -243,10 +239,13 @@
 
    
 
+   <div class="col-12">
+     <button type="button" name="button"><a href="/blog">Read Them ALL</a></button>
+   </div>
   </div>
 
 </section>
-<section class="subscribe center">
+<section class="subscribe center paddingTop">
   <h2 class="shorelines lineHeight"> Grab the Freebie</h2>
   <hr class="center"> </hr>
   <div class="ml-form-embed"
@@ -256,24 +255,25 @@
 </section>
 
 
-      <footer class="grid footerMain">
-  <div class="col-2_xs-12">
-    <h5 class="verticeText shorelines explore"> about </h5>
+      <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/22c3058346c8557ab6b334ec18d53b59.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+
+<footer class="grid footerMain">
+  <div class="col-3_xs-12">
+    <h5 class="shorelines explore"> about </h5>
     <p footerAbout> I'm just a girl, traveling the world. Trying to find myself and being as cheesy as possible along the way. </p>
   </div>
-  <div class="col-2_xs-12">
-    <h5 class="verticleText shorelines follow"> follow </h5>
-  <div class="verticalIcons">
+  <div class="col-3_xs-12">
+    <h5 class="shorelines follow"> follow </h5>
+  <div>
     <ul>
-      <li><a href="http://instagram.com/justynjen"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></li>
-      <li><a href="http://facebook.com/justynjen"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a></li>
-      <li><a href="http://pinterest.com/justynjen"><i class="fa fa-pinterest fa-2x" aria-hidden="true"></i></a></li>
-      <li><a href="http://youtube.com/justynjen"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a></li>
+      <a href="http://instagram.com/justynjen"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+      <a href="http://facebook.com/justynjen"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
+      <a href="http://pinterest.com/justynjen"><i class="fa fa-pinterest fa-2x" aria-hidden="true"></i></a>
     </ul>
   </div>
   </div>
-  <div class="col-4_xs-12 explore">
-    <h5 class="verticleText shorelines explore"> explore </h5>
+  <div class="col-3_xs-12 explore">
+    <h5 class="shorelines explore"> explore </h5>
   <div class="verticalIcons">
     <ul class="footerLinks">
       <li><a href="#">Travel</a></li>
@@ -284,8 +284,8 @@
     </ul>
   </div>
   </div>
-  <div class="col-4_xs-12 archive">
-    <h5 class="verticleText shorelines"> archive </h5>
+  <div class="col-3_xs-12 archive">
+    <h5 class="shorelines"> archive </h5>
   <div class="verticalIcons">
     <ul class="footerLinks">
       <li><a href="#">Cities</a></li>
@@ -298,7 +298,6 @@
   </div>
 </footer>
 <div>
-  <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/22c3058346c8557ab6b334ec18d53b59.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
 
 
 </div>
