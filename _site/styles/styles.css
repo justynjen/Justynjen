@@ -41,11 +41,6 @@
     background-size: cover;
     min-height:200px;
   }
-  .logo{
-    text-transform: lowercase;
-    font-size: 2.4rem;
-    font-family: 'aurellia_scriptregular';
-  }
   hr {
     border: none;
     border-bottom: 2px solid black;
@@ -148,11 +143,11 @@
 
   /* Navbar links */
   #navbar a {
-    float: left;
+    float: right;
     display: block;
     color: black;
     text-align: center;
-    padding: 0px 16px 0px 16px;
+    padding: 0px 18px 0px 16px;
     text-decoration: none;
   }
 
@@ -171,6 +166,20 @@
   /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
   .sticky + .content {
     padding-top: 20px;
+  }
+  #logo{
+    font-size: 2.4rem;
+    float: right;
+    text-align: center;
+    text-transform: lowercase;
+    font-family: 'aurellia_scriptregular';
+  }
+  #logo a{
+    text-transform: lowercase;
+    font-family: 'aurellia_scriptregular';
+  }
+  .navLeft{
+    text-align: left;
   }
   /**
   **** SIDEBAR ****
@@ -290,6 +299,9 @@
   */
   #grad {
   background-image: linear-gradient(-90deg, #C66B5F, #c66b5fb0);
+}
+.textLeft{
+  text-align: left;
 }
 .paddingTop{
   padding-top: 5%;
