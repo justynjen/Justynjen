@@ -41,7 +41,7 @@ Just make sure that you make a reservation. It was very busy. There menu is 100%
 &nbsp;
 {: .present-before-paste}
 
-![](/uploads/vegan-junk-food-bar-amsterdam.png){: srcset="/uploads/vegan-junk-food-bar-amsterdam.png 384w, /uploads/vegan-junk-food-bar-amsterdam@2x.png 768w"}&nbsp;&nbsp;
+![](/uploads/vegan-junk-food-bar-amsterdam.png){: .blogPostimage }&nbsp;&nbsp;
 {: .present-before-paste}
 
 &nbsp;
@@ -107,5 +107,5 @@ Alright, now you know where you can find dutch sweets, fries and everything in b
 
 &nbsp;
 
-![](/uploads/vegan-restaurants-amsterdam-2.png)
+![](/uploads/vegan-restaurants-amsterdam-2.png){: .blogPostimage }
 {: .present-before-paste}
