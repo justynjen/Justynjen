@@ -27,7 +27,7 @@ Just make sure that you make a reservation. It was very busy. There menu is 100%
 
 &nbsp;
 
-![](/uploads/received-322868408256558.png){: srcset="/uploads/received-322868408256558.png 90w, /uploads/received-322868408256558@2x.png 180w"}
+![](/uploads/received-322868408256558.png "Loaded Supreme Fries from the Vegan Junk Food Bar in Amsterdam"){: srcset="/uploads/received-322868408256558.png 90w, /uploads/received-322868408256558@2x.png 180w"}
 
 &nbsp;
 
