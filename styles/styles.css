@@ -324,6 +324,11 @@
   .colorHeading{
     color:#C66B5F;
   }
+  .blogPostimage{
+    max-width: 70%;
+    text-align: center;
+    position: relative;
+  }
   /*
   About text
   */
