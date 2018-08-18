@@ -1,7 +1,7 @@
 ---
 layout: posts
-date: 2018-07-10 14:00:00
-feature-image_path: /uploads/img-20180813-220042-908.png
+date: 2018-08-18 14:00:00
+feature-image_path: /uploads/img-20180813-220042-908-1.jpg
 title: 5 Best Vegan Restaurants in Amsterdam
 Author: Justyn
 tags:
@@ -27,13 +27,15 @@ Just make sure that you make a reservation. It was very busy. There menu is 100%
 
 &nbsp;
 
-![](/uploads/received-322868408256558.png "Loaded Supreme Fries from the Vegan Junk Food Bar in Amsterdam"){: srcset="/uploads/received-322868408256558.png 90w, /uploads/received-322868408256558@2x.png 180w"}
-
 &nbsp;
 
 I love their loaded fries. I had the loaded Supreme and I loved every bite of it. I also loved their traditional veggie burger but that was all I had the chance to try. I could have eaten everything on the menu it was so good!
 
-Holy mac and cheesus - I LOVE MAC AND CHEESE and this was no exception! It was amazing. I actually also wish that I would have tried everything on their menu however I only tried the Return of the Mac which was AMAZING.
+#### Holy Mac'n Cheesus -
+
+&nbsp;
+
+I LOVE MAC AND CHEESE and this was no exception! It was amazing. I actually also wish that I would have tried everything on their menu however I only tried the Return of the Mac which was AMAZING.
 
 Vegabond is a must visit for any sweets. They have sandwiches and cakes galore! I love the focaccia and the spring rolls with avocado are to die for. They also have an entire shop where you can buy healthy and delicious things for your kitchen (INCLUDING ICE CREAM!).
 
