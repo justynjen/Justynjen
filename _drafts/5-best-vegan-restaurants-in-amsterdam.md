@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-07-10 14:00:00
-feature-image_path: /uploads/matthew-kane-146076-unsplash.jpg
+feature-image_path: /uploads/img-20180813-220042-908.png
 title: 5 Best Vegan Restaurants in Amsterdam
 Author: Justyn
 tags:
@@ -13,11 +13,25 @@ comments: true
 
 Eating just might be my favorite thing in the world to do. This being said, I love food so going vegan has its ups and downs. Ice Cream is harder to find, sushi is nearly impossible and trying the local cuisine when I travel isn’t always an option. However, more and more cities have their favorites popping up in some of the tastiest vegan versions ever. I’ve made it my mission to find those restaurants and basically eat the entire menu before leaving the city. Check out what my 5 favorite vegan restaurants in Amsterdam were!
 
-Here’s my favorites:
+##### Here’s my favorites:
 
-The Meatless District - make sure that you make a reservation. It was very busy. There menu is 100% so I’d always just say try it all! Cause how often do you get those chances right? To me the BLT is most appealing cause that’s just something that doesn’t get recreated often.
+&nbsp;
 
-Vegan Junk Food Bar - I love their loaded fries. I had the loaded Supreme and I loved every bite of it. I also loved their traditional veggie burger but that was all I had the chance to try. I could have eaten everything on the menu it was so good!
+#### The Meatless District -
+
+&nbsp;
+
+Just make sure that you make a reservation. It was very busy. There menu is 100% so I’d always just say try it all! Cause how often do you get those chances right? To me the BLT is most appealing cause that’s just something that doesn’t get recreated often.
+
+#### Vegan Junk Food Bar -
+
+&nbsp;
+
+![](/uploads/received-322868408256558.png){: srcset="/uploads/received-322868408256558.png 90w, /uploads/received-322868408256558@2x.png 180w"}
+
+&nbsp;
+
+I love their loaded fries. I had the loaded Supreme and I loved every bite of it. I also loved their traditional veggie burger but that was all I had the chance to try. I could have eaten everything on the menu it was so good!
 
 Holy mac and cheesus - I LOVE MAC AND CHEESE and this was no exception! It was amazing. I actually also wish that I would have tried everything on their menu however I only tried the Return of the Mac which was AMAZING.
 
