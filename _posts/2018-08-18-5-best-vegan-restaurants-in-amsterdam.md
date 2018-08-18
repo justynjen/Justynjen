@@ -33,8 +33,7 @@ Just make sure that you make a reservation. It was very busy. There menu is 100%
 
 &nbsp;
 
-![](/uploads/vegan-junk-food-bar-amsterdam.png){: .blogPostimage }![](/uploads/loadedFries.png){: .blogPostimage }
-
+![](/uploads/vegan-junk-food-bar-amsterdam.png){: .blogPostimage }
 
 &nbsp;
 
